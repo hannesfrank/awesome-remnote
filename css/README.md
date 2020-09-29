@@ -17,6 +17,7 @@ Install these by pasting the relevant bits into your `⮉ Custom CSS` page.
 
 /* Configuration: Choose a highlight color */
 :root {
-  --focused-rem-highlight-color: #fafada;  /* Light yellow. */
+  --focused-rem-highlight-color: #fafada; /* Light yellow. */
   /*--focused-rem-highlight-color: lightgrey; */
+}
 ```
