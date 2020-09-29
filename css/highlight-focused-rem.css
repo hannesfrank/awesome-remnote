@@ -1,0 +1,10 @@
+#hierarchy-editor .rem-container--focused {
+  background-color: var(--focused-rem-highlight-color, #fafaea);
+}
+
+/* Configuration */
+/*
+:root {
+  --focused-rem-highlight-color: #fafada;
+}
+*/

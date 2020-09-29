@@ -1,0 +1,36 @@
+/**
+ * Fullscreen queue on desktop.
+ * 
+ * Authors: Eikosa, Hannes Frank
+ */
+.QueueDesktop .QueueFocused {
+  height: calc(100vh - 30px);
+  width: calc(100vw - 30px);
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+
+.QueueDesktop .QueueFocused .spacedRepetition,
+.QueueDesktop .QueueFocused .spacedRepetition #spacedRepetitionContent {
+  width: 100%;
+  height: 100%;
+  max-width: unset;
+  max-height: unset;
+}
+
+.QueueDesktop .QueueFocused .spacedRepetition #spacedRepetitionContent {
+  font-size: 20px !important;
+}
+
+/* .spacedRepetition .spaced-repetition__bottom {
+  height: 120px;
+} */
+
+.QueueDesktop .QueueFocused .queue__response-button {
+  font-size: 15px;
+}
+
+.QueueDesktop .QueueFocused .queue__response-button__next-time {
+  font-size: 12px;
+}

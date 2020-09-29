@@ -88,7 +88,9 @@ _RemNotes appearance can be customized on the `⮉ Custom CSS` page._
 
 _Not a full theme by itself, but styling specific features of RemNote. Can be used in conjunction with other themes._
 
-- [remnote-css-rem-types](https://github.com/hannesfrank/remnote-css-rem-types/)
+- [remnote-css-rem-types](https://github.com/hannesfrank/remnote-css-rem-types/) - Add icons for card types and practice direction.
+- [Fullscreen Queue](https://github.com/hannesfrank/awesome-remnote/tree/master/css#fullscreen-queue) - Make queue larger on desktop.
+- [Highlight Focsed Rem](https://github.com/hannesfrank/awesome-remnote/tree/master/css#highlight-focused-rem) - Highlight the rem you are editing.
 
 ## Tutorials
 
