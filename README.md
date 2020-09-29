@@ -2,6 +2,8 @@
 
 A list of awesome [RemNote](https://remnote.io) plugins, themes, tutorials and other resources.
 
+[Web](https://www.remnote.io/homepage) | [Android](https://play.google.com/store/apps/details?id=com.remnote) | iOS (WIP) | Standalone (WIP)
+
 <!-- TODO: Explain how the list works and what the goal is. -->
 <!-- **What is this list:** Think if it like a mind map of the RemNote Ecosystem.
 **Why is this list:** This project aims to collect the best resources, helping the community grow and enabling you to get the most out of RemNote.
@@ -59,6 +61,7 @@ _How to get data from other services into RemNote._
 
 <!-- TODO: Icons? Might be too much here. -->
 
+- **Chrome Extension: [RemNote Clipper](https://chrome.google.com/webstore/detail/remnote-clipper/ohidiiabdhnlgcaidgndbdbjlhngeboj)** - Save websites and take notes.
 - Twitter: [RemNoteBot](https://twitter.com/RemNoteBot/) - Send Twitter messages to RemNote.
 - Telegram: [rembot](https://github.com/dmrd/rembot) - Forward Telegram chats to RemNote.
 - IFTTT: [Use IFTTT with RemNote to create notes and greater self knowledge](https://www.youtube.com/watch?v=f7byM4BIq8o) - Youtube video about how to automatically add data using IFTTT hooks, e.g. from watched Youtube videos, Beeminder goal datapoints and played music on Spotify.
