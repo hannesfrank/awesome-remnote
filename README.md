@@ -1,8 +1,6 @@
-# Awesome RemNote
+![banner](img/remnote-banner.png)
 
-<!-- TODO: Banner, maybe something with the new loading animation. -->
-
-A list of awesome [RemNote](https://remnote.io) resources, plugins and tutorials.
+A list of awesome [RemNote](https://remnote.io) plugins, themes, tutorials and other resources.
 
 <!-- TODO: Explain how the list works and what the goal is. -->
 <!-- **What is this list:** Think if it like a mind map of the RemNote Ecosystem.
@@ -139,5 +137,3 @@ _Examples of knowledge bases._
 - [RichardLitt/meta-knowledge](https://github.com/RichardLitt/meta-knowledge) - 💡 A list of knowledge repositories
 - [KasperZutterman/Second-Brain](https://github.com/KasperZutterman/Second-Brain) - A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱.
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs.
-
-  TODO: Awesome list icon.
