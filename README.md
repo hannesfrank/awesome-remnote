@@ -25,7 +25,7 @@ _Places to connect with other ReMembers._
 - [Twitter](https://twitter.com/rem_note) - Daily tips and update notifications
 - [Youtube](https://www.youtube.com/channel/UCgETcD9IVBbTIL9OjCoaloA) - Tutorials and update demos
 - [Discord](https://bit.ly/REMNOTEdiscord) - Discussions and quick help
-- [Discorse Forum](https://remnote.io) - Q/A database and Feature Requests
+- [Discourse Forum](https://remnote.io) - Q/A database and Feature Requests
   <!-- - [Reddit](https://www.reddit.com/r/remNote/) - Deprecated: Replaced by Discorse Forum -->
 
 ## Plugins
@@ -125,6 +125,9 @@ _How to make the most out of RemNote?_
 
 _How to get knowledge into your head._
 
+- [How to Remember Everything Forever-ish](https://ncase.me/remember/) by Nicky Case - Playful introduction to spaced repetition.
+- [Augmenting Long-term Memory](http://augmentingcognition.com/ltm.html) by Michael Nielsen - Serious introduction to spaced repetition.
+- [Twenty rules of formulating knowledge](https://www.supermemo.com/en/archives1990-2015/articles/20rules) by Piotr Wozniak - Practical advice on how to formulate flash cards.
 - [Learning Library](https://www.notion.so/Learning-Library-2ecb646b5e1e4d5c8274c73c3fbb2541) by Moritz Wallawitsch - A library with links to resources about: Learning-Psychology, Note-Taking, Spaced Repetition, Memory, Visual Learning, Machine Learning, Attention, Creative thinking, Mental Models, Knowledge Representation, Reading, Connected Thought, Edtech, Learning-journey, and more.
 
 ### Writing

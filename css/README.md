@@ -2,7 +2,7 @@
 
 Install these by pasting the relevant bits into your `⮉ Custom CSS` page.
 
-<!-- TODO: Everything is also available from this shared page. -->
+<!-- TODO: Everything is also available from this shared page: https://www.remnote.io/a/custom-css/AonR8HbC9uQG2psFJ -->
 
 ## Fullscreen Queue
 
