@@ -1,0 +1,16 @@
+/**THIS IS A HACK. USE ONLY IF YOU KNOW WHAT YOU ARE DOING.
+ * Replace a highlight color (here purple) with a divider.
+ * 
+ * There is still an empty, semantically invalid rem but once dividers
+ * are released these things could be replaced semi-automatically using the 
+ * ⮉ Highlight Power-Up rem.
+ * 
+ * To look nicely you have to leave it empty or you disable the bullet point with /none
+ * and set color to transparent (commented below).
+ */
+.rem-text.highlight-color--purple {
+  /* color: rgba(0, 0, 0, 0); */ /* hides cursor */
+  background: transparent;
+  transform: translateY(-50%);
+  border-bottom: 2px solid #888;
+}

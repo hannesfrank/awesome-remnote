@@ -21,3 +21,16 @@ Install these by pasting the relevant bits into your `⮉ Custom CSS` page.
   /*--focused-rem-highlight-color: lightgrey; */
 }
 ```
+
+## Hacky divider
+
+![hacky divider](img/hacky-divider.gif)
+
+_☣️ THIS IS A HACK. USE ONLY IF YOU KNOW WHAT YOU ARE DOING. (It is save though.)_
+
+Replace the purple highlight (<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>9</kbd>) with a divider.
+If you don't want purple gone but anothter color, copy the css instead and `purple` to another highlight color.
+
+```css
+@import url("https://cdn.jsdelivr.net/gh/hannesfrank/awesome-remnote@master/css/hacky-divider.css");
+```

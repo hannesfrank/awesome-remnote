@@ -92,6 +92,7 @@ _Not a full theme by itself, but styling specific features of RemNote. Can be us
 - [remnote-css-rem-types](https://github.com/hannesfrank/remnote-css-rem-types/) - Add icons for card types and practice direction.
 - [Fullscreen Queue](https://github.com/hannesfrank/awesome-remnote/tree/master/css#fullscreen-queue) - Make queue larger on desktop.
 - [Highlight Focsed Rem](https://github.com/hannesfrank/awesome-remnote/tree/master/css#highlight-focused-rem) - Highlight the rem you are editing.
+- ☣️ [Divider](https://github.com/hannesfrank/awesome-remnote/tree/master/css#hacky-divider) - A divider hack.
 
 ## Tutorials
 
@@ -138,8 +139,11 @@ _How to get knowledge out of your head._
 
 ### Knowledge Bases
 
-_Examples of knowledge bases._
+_Examples of other knowledge bases and how to build them._
+
+<!-- TODO: These are awesome lists. Add glasses icons. -->
 
 - [RichardLitt/meta-knowledge](https://github.com/RichardLitt/meta-knowledge) - 💡 A list of knowledge repositories
 - [KasperZutterman/Second-Brain](https://github.com/KasperZutterman/Second-Brain) - A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱.
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs.
+- [brettkromkamp/awesome-knowledge-management](https://github.com/brettkromkamp/awesome-knowledge-management) - A curated list of amazingly awesome articles, people, applications, software libraries and projects related to the knowledge management space.
