@@ -92,7 +92,11 @@ _Not a full theme by itself, but styling specific features of RemNote. Can be us
 - [remnote-css-rem-types](https://github.com/hannesfrank/remnote-css-rem-types/) - Add icons for card types and practice direction.
 - [Fullscreen Queue](https://github.com/hannesfrank/awesome-remnote/tree/master/css#fullscreen-queue) - Make queue larger on desktop.
 - [Highlight Focsed Rem](https://github.com/hannesfrank/awesome-remnote/tree/master/css#highlight-focused-rem) - Highlight the rem you are editing.
-- ☣️ [Divider](https://github.com/hannesfrank/awesome-remnote/tree/master/css#hacky-divider) - A divider hack.
+
+☣️ Things that _will_ break at some point, only use if you know what you are doing:
+
+- [Divider](https://github.com/hannesfrank/awesome-remnote/tree/master/css#%EF%B8%8F-divider) - Format a rem as a divider, similar to notions `/divider`.
+- [Comment](https://github.com/hannesfrank/awesome-remnote/tree/master/css#%EF%B8%8F-comment)
 
 ## Tutorials
 

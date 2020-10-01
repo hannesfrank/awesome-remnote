@@ -1,0 +1,18 @@
+/**
+ * Styles a highlight color (here orange) as small gray text.
+ * 
+ * This makes the highlight a semantically invalid but once this feature
+ * is released it can be replaced semi-automatically using the 
+ * ⮉ Highlight Power-Up rem.
+ */
+.rem-text.highlight-color--orange {
+  font-size: var(--comment-font-size, 11px);
+  color: var(--comment-color, grey);
+  background: var(--comment-background, transparent);
+}
+
+span.highlight-color--orange {
+  font-size: var(--comment-font-size, 11px);
+  color: var(--comment-color, grey);
+  background: var(--comment-background, transparent);
+}
