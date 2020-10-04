@@ -1,0 +1,8 @@
+/**
+ * Add an extra empty block after the editor.
+ */
+#hierarchy-editor-list__inner:after {
+	content: '';
+	height: 800px;
+	display: block;
+}

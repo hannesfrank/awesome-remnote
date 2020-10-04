@@ -10,6 +10,15 @@ Install these by pasting the css snippets into an empty template block in your `
 @import url("https://cdn.jsdelivr.net/gh/hannesfrank/awesome-remnote/css/fullscreen-queue.css");
 ```
 
+## Scroll Further Down
+
+Ability to scroll further down such that you don't have to write on the bottom of the page.
+
+```css
+@import url("https://cdn.jsdelivr.net/gh/hannesfrank/awesome-remnote/css/scroll-further-down.css");
+```
+
+
 ## Highlight Focused Rem
 
 ```css

@@ -90,13 +90,14 @@ _RemNotes appearance can be customized on the `⮉ Custom CSS` page._
 _Not a full theme by itself, but styling specific features of RemNote. Can be used in conjunction with other themes._
 
 - [remnote-css-rem-types](https://github.com/hannesfrank/remnote-css-rem-types/) - Add icons for card types and practice direction.
-- [Fullscreen Queue](https://github.com/hannesfrank/awesome-remnote/tree/master/css#fullscreen-queue) - Make queue larger on desktop.
-- [Highlight Focsed Rem](https://github.com/hannesfrank/awesome-remnote/tree/master/css#highlight-focused-rem) - Highlight the rem you are editing.
+- [Fullscreen Queue](./css/README.md#fullscreen-queue) - Make queue larger on desktop.
+- [Highlight Focsed Rem](./css/README.md#highlight-focused-rem) - Highlight the rem you are editing.
+- [Scroll Further Down](./css/README.md#scroll-further-down) - Ability to scroll further down such that you don't have to write on the bottom of the page.
 
 ☣️ Things that _will_ break at some point, only use if you know what you are doing:
 
-- [Divider](https://github.com/hannesfrank/awesome-remnote/tree/master/css#%EF%B8%8F-divider) - Format a rem as a divider, similar to notions `/divider`.
-- [Comment](https://github.com/hannesfrank/awesome-remnote/tree/master/css#%EF%B8%8F-comment)
+- [Divider](./css/README.md#%EF%B8%8F-divider) - Format a rem as a divider, similar to notions `/divider`.
+- [Comment](./css/README.md#%EF%B8%8F-comment)
 
 ## Tutorials
 
