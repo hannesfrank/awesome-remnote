@@ -1,8 +1,12 @@
 /**
  * Add an extra empty block after the editor.
  */
-#hierarchy-editor-list__inner:after {
-	content: '';
-	height: 800px;
-	display: block;
+#hierarchy-editor:after {
+  content: "";
+  height: 800px;
+  display: block;
+}
+
+.Queue #hierarchy-editor:after {
+  display: none;
 }
