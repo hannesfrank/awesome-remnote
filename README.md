@@ -44,14 +44,9 @@ Featured plugins (⭐) can be installed directly from [remnote.io/plugins](https
 - [English Dictionary](img/dictionary-plugin.png) - Look up definition of words
   - Note: As RemNote Plugins are just webpages, you can use any webservice which works well in an iframe.
 
-🔧 Experiments, Prototypes, WIP, Personal: Plugins that lack documentation and might not be usable.
-
-- [Tables](https://glitch.com/~abalone-pointy-ash) - Something with tables.
-- [remnote-mermaid](https://glitch.com/~remnote-mermaid) - Something with Mermaid.js diagrams.
-- [remnoteformplugin](https://glitch.com/~remnoteformplugin) - Something with generating questions.
-- [listtorem](https://glitch.com/~listtorem) - Something with creating many rems.
-
-<!-- TODO: Can we get a link (remnote.io/plugins/add?name=myplugin&width=) to install a plugin with default settings. This would be a first and simple to implement step to a plugin store. -->
+<!-- TODO: Can we get a link (remnote.io/plugins/add?name=myplugin&width=) to install a plugin with default settings. This would be a first and simple to implement step to a plugin store.
+Martin said one can ask the devs to add a plugin.
+-->
 
 See also [Extensions, Plugins & Themes](https://www.remnote.io/documentation/nFTJ495uTxQTva9TL) in RemNote's Tutorial section.
 
@@ -105,7 +100,7 @@ _How to use RemNote?_
 
 Get started by looking at RemNote's excellent builtin documentation or the official Youtube channel.
 
-- [Youtube Tutorials Series](https://www.youtube.com/channel/UCgETcD9IVBbTIL9OjCoaloA/videos)
+- [Official Tutorial Series](https://www.youtube.com/channel/UCgETcD9IVBbTIL9OjCoaloA/videos)
 
 ### Video Tutorials
 
@@ -118,6 +113,14 @@ Get started by looking at RemNote's excellent builtin documentation or the offic
   - [How to Take Smart Research Notes](https://www.youtube.com/watch?v=ay69c1_OPl4) - Hierarchical notes vs. networked notes. References, Tags, backlinks.
   - [How to Use RemNote for Academic Literature Review](https://www.youtube.com/watch?v=lrMVIZt-VUY)
   <!-- - Youtube Channel: NotesWithRen -->
+
+### Courses
+
+_Comprehensive curricula convering all features of RemNote._
+
+Paid (💰) or free (🎓).
+
+<img alt="german flag" src="img/flag-de.png" height="10px"> 💰 [RemNote – Das beste Lerntool verstehen und effektiv nutzen](https://turningpro.de/courses/remnote/preview) by Erich Heyzel
 
 ## Other Resources
 
