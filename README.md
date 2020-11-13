@@ -120,7 +120,7 @@ _Comprehensive curricula convering all features of RemNote._
 
 Paid (💰) or free (🎓).
 
-<img alt="german flag" src="img/flag-de.png" height="10px"> 💰 [RemNote – Das beste Lerntool verstehen und effektiv nutzen](https://turningpro.de/courses/remnote/preview) by Erich Heyzel
+- <img alt="german flag" src="img/flag-de.png" height="10px"> 💰 [RemNote – Das beste Lerntool verstehen und effektiv nutzen](https://turningpro.de/courses/remnote/preview) by Erich Heyzel
 
 ## Other Resources
 
@@ -143,7 +143,7 @@ _How to get knowledge into your head._
 
 _How to get knowledge out of your head._
 
-...
+- 📕 _How To Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers_ by Sönke Ahrens - Must read for serious note takers.
 
 ### Knowledge Bases
 
