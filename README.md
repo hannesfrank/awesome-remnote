@@ -89,7 +89,7 @@ _Not a full theme by itself, but styling specific features of RemNote. Can be us
 - [Highlight Focsed Rem](./css/README.md#highlight-focused-rem) - Highlight the rem you are editing.
 - [Scroll Further Down](./css/README.md#scroll-further-down) - Ability to scroll further down such that you don't have to write on the bottom of the page.
 
-☣️ Things that _will_ break at some point, only use if you know what you are doing:
+☣️ Things that _will_ break at some point, ~~only use if you know what you are doing~~ DO NOT USE THIS ANYMORE. There is [a better way](https://forum.remnote.io/t/custom-rem-level-formatting-with-tags/168?u=hannesfrank):
 
 - [Divider](./css/README.md#%EF%B8%8F-divider) - Format a rem as a divider, similar to notions `/divider`.
 - [Comment](./css/README.md#%EF%B8%8F-comment)
