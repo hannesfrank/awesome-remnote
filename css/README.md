@@ -31,11 +31,11 @@ Ability to scroll further down such that you don't have to write on the bottom o
 }
 ```
 
-## ☣️ Divider
+## DEPRECATED: ☣️ Divider
 
 <blockquote>
 
-**THIS IS A HACK. USE ONLY IF YOU KNOW WHAT YOU ARE DOING.**
+**THIS IS A HACK. ~~USE ONLY IF YOU KNOW WHAT YOU ARE DOING.~~ Do not use anymore. [Use tags instead.](https://forum.remnote.io/t/custom-rem-level-formatting-with-tags/168?u=hannesfrank)**
 
 _It repurposes a feature of RemNote.
 This means that every place where you used it already will look differently.
@@ -54,11 +54,11 @@ If you don't want purple gone but another color, copy the css instead and change
 @import url("https://cdn.jsdelivr.net/gh/hannesfrank/awesome-remnote/css/hacky-divider.css");
 ```
 
-## ☣️ Comment
+## DEPRECATED: ☣️ Comment
 
 <blockquote>
 
-**THIS IS A HACK. USE ONLY IF YOU KNOW WHAT YOU ARE DOING.**
+**THIS IS A HACK. ~~USE ONLY IF YOU KNOW WHAT YOU ARE DOING.~~ Do not use anymore. [Use tags instead.](https://forum.remnote.io/t/custom-rem-level-formatting-with-tags/168?u=hannesfrank)**
 
 _It repurposes a feature of RemNote.
 This means that every place where you used it already will look differently.

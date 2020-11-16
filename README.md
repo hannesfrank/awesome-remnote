@@ -91,8 +91,8 @@ _Not a full theme by itself, but styling specific features of RemNote. Can be us
 
 ☣️ Things that _will_ break at some point, ~~only use if you know what you are doing~~ DO NOT USE THIS ANYMORE. There is [a better way](https://forum.remnote.io/t/custom-rem-level-formatting-with-tags/168?u=hannesfrank):
 
-- [Divider](./css/README.md#%EF%B8%8F-divider) - Format a rem as a divider, similar to notions `/divider`.
-- [Comment](./css/README.md#%EF%B8%8F-comment)
+- ~~[Divider](./css/README.md#%EF%B8%8F-divider) - Format a rem as a divider, similar to notions `/divider`.~~
+- ~~[Comment](./css/README.md#%EF%B8%8F-comment)~~
 
 ## Tutorials
 
