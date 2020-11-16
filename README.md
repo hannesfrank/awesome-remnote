@@ -128,17 +128,23 @@ _How to make the most out of RemNote?_
 
 <!-- TODO: Add references from my RemNote -->
 
-- [Reference](docs/reference.md) in this repo - Hidden features (undocumented links like an experimental trash to restore deleted rems) and the list of Power-Up rems.
+- [Reference](docs/reference.md) in this repo - Undocumented links like an experimental trash to restore deleted rems and the list of Power-Up rems.
 - [RemNote Tour with Founder Martin Schneider](https://www.youtube.com/watch?v=vlm3_57JuMI) - Interview with Martin Schneider by Robert Haisfield about the role of memory in knowledge management aka spaced repetition.
 
 ### Learning
 
 _How to get knowledge into your head._
 
+- 📄 _Improving Students’ Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology_ by John Dunlosky, Katherine A. Rawson, Elizabeth J. Marsh, Mitchell J. Nathan, Daniel T. Willingham - Paper investigating the (in)effectiveness of learning techniques (elaborative interrogation, self-explanation, summarization, highlighting, keyword mnemonic, imagery use for text learning, rereading, practice testing, distributed practice, and interleaved practice).
+  - The easy-to-read summary (popular science publication) "_What Works, What Doesn't"_ can be found [here](https://wcer.wisc.edu/docs/resources/cesa2017/Dunlosky_SciAmMind.pdf).
+- 📕 _Make it Stick: The Science of Successful Learning_ by Peter C. Brown, Henry L. Roediger III, Mark A. McDaniel - Drawing on recent discoveries in cognitive psychology and other disciplines, the authors offer concrete techniques for becoming more productive learners.
+- [Learning Library](https://www.notion.so/Learning-Library-2ecb646b5e1e4d5c8274c73c3fbb2541) by Moritz Wallawitsch (RemNote Co-founder) - A library with links to resources about: Learning-Psychology, Note-Taking, Spaced Repetition, Memory, Visual Learning, Machine Learning, Attention, Creative thinking, Mental Models, Knowledge Representation, Reading, Connected Thought, Edtech, Learning-journey, and more.
+
+#### Spaced-repetition
+
 - [How to Remember Everything Forever-ish](https://ncase.me/remember/) by Nicky Case - Playful introduction to spaced repetition.
 - [Augmenting Long-term Memory](http://augmentingcognition.com/ltm.html) by Michael Nielsen - Serious introduction to spaced repetition.
 - [Twenty rules of formulating knowledge](https://www.supermemo.com/en/archives1990-2015/articles/20rules) by Piotr Wozniak - Practical advice on how to formulate flash cards.
-- [Learning Library](https://www.notion.so/Learning-Library-2ecb646b5e1e4d5c8274c73c3fbb2541) by Moritz Wallawitsch - A library with links to resources about: Learning-Psychology, Note-Taking, Spaced Repetition, Memory, Visual Learning, Machine Learning, Attention, Creative thinking, Mental Models, Knowledge Representation, Reading, Connected Thought, Edtech, Learning-journey, and more.
 
 ### Writing
 
