@@ -116,7 +116,7 @@ Get started by looking at RemNote's excellent builtin documentation or the offic
 
 ### Courses
 
-_Comprehensive curricula convering all features of RemNote._
+_Comprehensive curricula covering all features of RemNote._
 
 Paid (💰) or free (🎓).
 
@@ -128,6 +128,7 @@ _How to make the most out of RemNote?_
 
 <!-- TODO: Add references from my RemNote -->
 
+- [Reference](docs/reference.md) in this repo - Hidden features (undocumented links like an experimental trash to restore deleted rems) and the list of Power-Up rems.
 - [RemNote Tour with Founder Martin Schneider](https://www.youtube.com/watch?v=vlm3_57JuMI) - Interview with Martin Schneider by Robert Haisfield about the role of memory in knowledge management aka spaced repetition.
 
 ### Learning
