@@ -22,6 +22,21 @@ Note: Anything not in the official docs should not be considered stable and migh
   - [remnote.io/keyboard_shortcuts](https://www.remnote.io/keyboard_shortcuts) - Directly access shortcut settings.
 - [remnote.io/api](https://www.remnote.io/api/) - Frontend/backend API reference.
 - [remnote.io/api_keys](https://www.remnote.io/api_keys/) - Manage API keys for backend plugins.
+- [remnote.io/export](https://www.remnote.io/export) - Export/backup all your Rem to various formats (Plain Text, Markdown, HTML, OPML, JSON, Anki). The Full Raw Backup (JSON) contains all your data and can be used to restore your account.
+- [remnote.io/import](https://www.remnote.io/import) - Import Rem from various formats (Roam Research, Workyflowy, Dynalist, RemNote, Anki, Markdown, Copy&Paste Text/Markdown). The RemNote import takes a Full Raw Backup (JSON) and can fully restore your Knowledge Base.
+
+## URL Scheme
+
+Some paths take rem ids as arguments:
+
+- `document/*`
+  - `document/REM_ID` opens this rem as a page.
+  - `document/REM_ID?locationAnchor=HIGHLIGHT_REM_ID` focuses a child rem on the opened page.
+  - `document/LEFT_REM_ID/RIGHT_REM_ID` to open two rems in split view.
+- `queue/*`
+  - `queue/REM_ID` practice all rem in `document/REM_ID` _with_ spaced repetition, i.e. don't ask flashcards which are not due yet.
+  - `queue/REM_ID/all` practice all rem in `document/REM_ID` _without_ spaced repetition, i.e. ask flashcards even if they are not due. **TODO:** Check how the due time changes when you practice something due far in the future multiple times in a row. (You should not get too much credit.)
+- `export/REM_ID` export a specific rem. ([remnote.io/export](https://www.remnote.io/export) to export all rem)
 
 ## Power-Up Rems
 
