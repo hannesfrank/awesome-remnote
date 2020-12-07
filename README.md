@@ -44,7 +44,7 @@ _Places to interact with community members and developers._
 - [Twitter](https://twitter.com/rem_note) - Daily tips and update notifications
 - [Youtube](https://www.youtube.com/channel/UCgETcD9IVBbTIL9OjCoaloA) - Tutorials and update demos
 - [Discord](https://bit.ly/REMNOTEdiscord) - Discussions and quick help
-- [Discourse Forum](https://remnote.io) - Q/A database and Feature Requests
+- [Discourse Forum](https://forum.remnote.io) - Q/A database and Feature Requests
   <!-- - [Reddit](https://www.reddit.com/r/remNote/) - Deprecated: Replaced by Discorse Forum -->
 
 ## Integrations
@@ -67,7 +67,6 @@ _Plugins extend the functionality of RemNote, featured plugins (⭐) can be inst
 
 <!-- TODO: describe how to install plugins that aren't featured in the app -->
 
-
 - ⭐ [Image Search](https://remnoteimagesearch.glitch.me/) - Search and insert images powered by Google Image Search.
 - ⭐ [RemNote Graph](https://www.nhanvu327.com/rem-plugins) - Graph Visualization for you knowledge base.
   <small>Implementation currently not published on its [Github](https://github.com/nhanvu327/rem-graph).</small>
@@ -82,22 +81,19 @@ _Plugins extend the functionality of RemNote, featured plugins (⭐) can be inst
 Martin said one can ask the devs to add a plugin.
 -->
 
-
 ### Themes
 Installed using [Stylus.](https://github.com/openstyles/stylus)
 - **[RemNoteTheme](https://github.com/ethomasv/RemNoteTheme)** - Modern design theme supporting light and dark mode.
 - [RemLight21](https://github.com/cannibalox/RemLight21) - A light theme for RemNote.
 
-### Custom CSS Mixins
+### Custom CSS
+
 _RemNote's appearance can be customized by pasting in and ticking css blocks on the `⮉ Custom CSS` page._
 _Not a full theme by itself, but styling specific features of RemNote. Can be used in conjunction with other themes._
 
 - [remnote-css-rem-types](https://github.com/hannesfrank/remnote-css-rem-types/) - Add icons for card types and practice direction.
-- [Fullscreen Queue](./css/README.md#fullscreen-queue) - Make queue larger on desktop.
 - [Highlight Focsed Rem](./css/README.md#highlight-focused-rem) - Highlight the rem you are editing.
 - [Scroll Further Down](./css/README.md#scroll-further-down) - Ability to scroll further down such that you don't have to write on the bottom of the page.
-
-
 
 ### Development
 
