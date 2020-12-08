@@ -108,21 +108,11 @@ _Things a plugin developer might need._
 
 _How to use RemNote?_
 
-Get started by going through the interactive tutorial and looking at RemNote's excellent builtin documentation or the official Youtube channel.
+Get started by going through the interactive tutorial and looking at RemNote's excellent builtin documentation or the official Youtube channel. Then move onto community tutorials.
 
 - [Official Tutorial Series](https://www.youtube.com/channel/UCgETcD9IVBbTIL9OjCoaloA/videos)
+- [Community video tutorials section of the documentation](https://www.remnote.io/documentation/5fc3c2b94aed570045281735)
 
-### Video Tutorials
-
-<!-- TODO: Youtube Icon. -->
-
-- Youtube Channel: [Red Gregory](https://www.youtube.com/channel/UC4GFX14CvT9VFiAh0fH3Nhw)
-  - [How To Use RemNote: Practical Note-taking Advice & Flashcard Types](https://www.youtube.com/watch?v=4m4_q4UEZDE)
-  - [How To Use RemNote Pt. 2: Templates & Daily Documents](https://www.youtube.com/watch?v=_NCXph5ZSOE)
-- Youtube Channel: [Nabhan](https://www.youtube.com/channel/UCfzJ54hBKlMvdIPOwY6hemg)
-  - [How to Take Smart Research Notes](https://www.youtube.com/watch?v=ay69c1_OPl4) - Hierarchical notes vs. networked notes. References, Tags, backlinks.
-  - [How to Use RemNote for Academic Literature Review](https://www.youtube.com/watch?v=lrMVIZt-VUY)
-  <!-- - Youtube Channel: NotesWithRen -->
 
 ### Courses
 
