@@ -61,6 +61,7 @@ _How to get data from other services into RemNote._
 - Zotero: [remnote-zotero-import](https://github.com/hannesfrank/remnote-zotero-import) - Paste literature references.
 
 ## Extensions
+[External extenstions library by the author of this list.](https://hannesfrank.github.io/remnote-library/#/)
 ### Plugins
 
 _Plugins extend the functionality of RemNote, featured plugins (⭐) can be installed directly from [remnote.io/plugins](https://www.remnote.io/plugins)._
@@ -84,6 +85,7 @@ Martin said one can ask the devs to add a plugin.
 ### Themes
 Installed using [Stylus.](https://github.com/openstyles/stylus)
 - **[RemNoteTheme](https://github.com/ethomasv/RemNoteTheme)** - Modern design theme supporting light and dark mode.
+  - [Custom CSS version of tskn variant](https://hannesfrank.github.io/remnote-library/#/scroll/com.github.hannesfrank.remnote-library.tskn-theme)
 - [RemLight21](https://github.com/cannibalox/RemLight21) - A light theme for RemNote.
 
 ### Custom CSS
@@ -135,12 +137,12 @@ _How to make the most out of RemNote?_
 
 _How to get knowledge into your head._
 
-- [Learning how to Learn by Barbara Oakley and Terrence Sejnowski.](https://www.coursera.org/learn/learning-how-to-learn) A MOOC of empirically proven learning techniques in the simplest possible terms.
-  - [A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)](https://www.goodreads.com/book/show/18693655-a-mind-for-numbers) accompanying book, can be read without taking the course or alongside it.
+- :mortar_board: [Learning how to Learn by Barbara Oakley and Terrence Sejnowski.](https://www.coursera.org/learn/learning-how-to-learn) A MOOC of empirically proven learning techniques in the simplest possible terms.
+  - :closed_book:[A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)](https://www.goodreads.com/book/show/18693655-a-mind-for-numbers) accompanying book, can be read without taking the course or alongside it.
+- 📕 [Make it Stick: The Science of Successful Learning_ by Peter C. Brown, Henry L. Roediger III, Mark A. McDaniel](https://www.goodreads.com/book/show/18770267-make-it-stick)  Drawing on recent discoveries in cognitive psychology and other disciplines, the authors offer concrete techniques for becoming more productive learners.
 - 📄 _Improving Students’ Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology_ by John Dunlosky, Katherine A. Rawson, Elizabeth J. Marsh, Mitchell J. Nathan, Daniel T. Willingham - Paper investigating the (in)effectiveness of learning techniques (elaborative interrogation, self-explanation, summarization, highlighting, keyword mnemonic, imagery use for text learning, rereading, practice testing, distributed practice, and interleaved practice).
   - The easy-to-read summary (popular science publication) "_What Works, What Doesn't"_ can be found [here](https://wcer.wisc.edu/docs/resources/cesa2017/Dunlosky_SciAmMind.pdf).
-- 📕 _Make it Stick: The Science of Successful Learning_ by Peter C. Brown, Henry L. Roediger III, Mark A. McDaniel - Drawing on recent discoveries in cognitive psychology and other disciplines, the authors offer concrete techniques for becoming more productive learners.
-- [Learning Library](https://www.notion.so/Learning-Library-2ecb646b5e1e4d5c8274c73c3fbb2541) by Moritz Wallawitsch (RemNote Co-founder) - A library with links to resources about: Learning-Psychology, Note-Taking, Spaced Repetition, Memory, Visual Learning, Machine Learning, Attention, Creative thinking, Mental Models, Knowledge Representation, Reading, Connected Thought, Edtech, Learning-journey, and more.
+- :books: [Learning Library](https://www.notion.so/Learning-Library-2ecb646b5e1e4d5c8274c73c3fbb2541) by Moritz Wallawitsch (RemNote Co-founder) - A library with links to resources about: Learning-Psychology, Note-Taking, Spaced Repetition, Memory, Visual Learning, Machine Learning, Attention, Creative thinking, Mental Models, Knowledge Representation, Reading, Connected Thought, Edtech, Learning-journey, and more.
 
 ### Spaced Repetition
 
