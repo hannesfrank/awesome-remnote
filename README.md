@@ -13,16 +13,16 @@ A list of awesome [RemNote](https://remnote.io) plugins, themes, tutorials and o
  are great but there are some outdated and missing parts.
  -->
  <!-- Add contributing guidelines -->
+
 - [Awesome Remnote](#awesome-remnote)
   - [Community](#community)
   - [Integrations](#integrations)
   - [Extensions](#extensions)
     - [Plugins](#plugins)
     - [Themes](#themes)
-    - [Custom CSS Mixins](#custom-css-mixins)
+    - [Custom CSS](#custom-css)
     - [Development](#development)
   - [Tutorials](#tutorials)
-    - [Video Tutorials](#video-tutorials)
     - [Courses](#courses)
 - [Education Materials](#education-materials)
   - [Learning](#learning)
@@ -30,8 +30,8 @@ A list of awesome [RemNote](https://remnote.io) plugins, themes, tutorials and o
     - [Note-taking](#note-taking)
   - [Knowledge Bases](#knowledge-bases)
 
-
 # Awesome Remnote
+
 ## Community
 
 <!-- TODO: Icons -->
@@ -61,7 +61,7 @@ _How to get data from other services into RemNote._
 - Zotero: [remnote-zotero-import](https://github.com/hannesfrank/remnote-zotero-import) - Paste literature references.
 
 ## Extensions
-[External extenstions library by the author of this list.](https://hannesfrank.github.io/remnote-library/#/)
+
 ### Plugins
 
 _Plugins extend the functionality of RemNote, featured plugins (⭐) can be installed directly from [remnote.io/plugins](https://www.remnote.io/plugins)._
@@ -83,7 +83,9 @@ Martin said one can ask the devs to add a plugin.
 -->
 
 ### Themes
+
 Installed using [Stylus.](https://github.com/openstyles/stylus)
+
 - **[RemNoteTheme](https://github.com/ethomasv/RemNoteTheme)** - Modern design theme supporting light and dark mode.
   - [Custom CSS version of tskn variant](https://hannesfrank.github.io/remnote-library/#/scroll/com.github.hannesfrank.remnote-library.tskn-theme)
 - [RemLight21](https://github.com/cannibalox/RemLight21) - A light theme for RemNote.
@@ -93,18 +95,23 @@ Installed using [Stylus.](https://github.com/openstyles/stylus)
 _RemNote's appearance can be customized by pasting in and ticking css blocks on the `⮉ Custom CSS` page._
 _Not a full theme by itself, but styling specific features of RemNote. Can be used in conjunction with other themes._
 
-- [remnote-css-rem-types](https://github.com/hannesfrank/remnote-css-rem-types/) - Add icons for card types and practice direction.
-- [Highlight Focsed Rem](./css/README.md#highlight-focused-rem) - Highlight the rem you are editing.
-- [Scroll Further Down](./css/README.md#scroll-further-down) - Ability to scroll further down such that you don't have to write on the bottom of the page.
+- [:scroll: RemNote Library.](https://hannesfrank.github.io/remnote-library/#/) - A website to discover and share Custom CSS. Installing CSS Snippets is a just copy&paste.
+
+<!-- TODO: Show featured snippets here: Kanban, Columns, Icons, Themes -->
+<!-- - [Highlight Focsed Rem](./css/README.md#highlight-focused-rem) - Highlight the rem you are editing.
+- [Scroll Further Down](./css/README.md#scroll-further-down) - Ability to scroll further down such that you don't have to write on the bottom of the page. -->
 
 ### Development
 
 _Things a plugin developer might need._
+
 - [Reference](docs/reference.md) in this repo - Undocumented links like an experimental trash to restore deleted rems and the list of Power-Up rems.
 - [Extensions, Plugins & Themes documenentation](https://www.remnote.io/documentation/nFTJ495uTxQTva9TL) in RemNote's Tutorial section.
 - [remnote-inspect](https://github.com/hannesfrank/remnote-inspect) - Show datastructure of context, focused Rem and Document.
 - [A feature request to allow more extensive formatting of rem.](https://forum.remnote.io/t/custom-rem-level-formatting-with-tags/168?u=hannesfrank)
-<!-- TODO: Guides, Github pages plugin template,  -->
+  <!-- TODO: Guides, Github pages plugin template,  -->
+  <!-- TODO: Add ability to paste content feature request -->
+  <!-- TODO: Add css development tips -->
 
 ## Tutorials
 
@@ -114,7 +121,6 @@ Get started by going through the interactive tutorial and looking at RemNote's e
 
 - [Official Tutorial Series](https://www.youtube.com/channel/UCgETcD9IVBbTIL9OjCoaloA/videos)
 - [Community video tutorials section of the documentation](https://www.remnote.io/documentation/5fc3c2b94aed570045281735)
-
 
 ### Courses
 
@@ -130,7 +136,6 @@ _How to make the most out of RemNote?_
 
 <!-- TODO: Add references from my RemNote -->
 
-
 - [RemNote Tour with Founder Martin Schneider](https://www.youtube.com/watch?v=vlm3_57JuMI) - Interview with Martin Schneider by Robert Haisfield about the role of memory in knowledge management aka spaced repetition.
 
 ## Learning
@@ -139,7 +144,7 @@ _How to get knowledge into your head._
 
 - :mortar_board: [Learning how to Learn by Barbara Oakley and Terrence Sejnowski.](https://www.coursera.org/learn/learning-how-to-learn) A MOOC of empirically proven learning techniques in the simplest possible terms.
   - :closed_book:[A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)](https://www.goodreads.com/book/show/18693655-a-mind-for-numbers) accompanying book, can be read without taking the course or alongside it.
-- 📕 [Make it Stick: The Science of Successful Learning_ by Peter C. Brown, Henry L. Roediger III, Mark A. McDaniel](https://www.goodreads.com/book/show/18770267-make-it-stick)  Drawing on recent discoveries in cognitive psychology and other disciplines, the authors offer concrete techniques for becoming more productive learners.
+- 📕 [Make it Stick: The Science of Successful Learning\_ by Peter C. Brown, Henry L. Roediger III, Mark A. McDaniel](https://www.goodreads.com/book/show/18770267-make-it-stick) Drawing on recent discoveries in cognitive psychology and other disciplines, the authors offer concrete techniques for becoming more productive learners.
 - 📄 _Improving Students’ Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology_ by John Dunlosky, Katherine A. Rawson, Elizabeth J. Marsh, Mitchell J. Nathan, Daniel T. Willingham - Paper investigating the (in)effectiveness of learning techniques (elaborative interrogation, self-explanation, summarization, highlighting, keyword mnemonic, imagery use for text learning, rereading, practice testing, distributed practice, and interleaved practice).
   - The easy-to-read summary (popular science publication) "_What Works, What Doesn't"_ can be found [here](https://wcer.wisc.edu/docs/resources/cesa2017/Dunlosky_SciAmMind.pdf).
 - :books: [Learning Library](https://www.notion.so/Learning-Library-2ecb646b5e1e4d5c8274c73c3fbb2541) by Moritz Wallawitsch (RemNote Co-founder) - A library with links to resources about: Learning-Psychology, Note-Taking, Spaced Repetition, Memory, Visual Learning, Machine Learning, Attention, Creative thinking, Mental Models, Knowledge Representation, Reading, Connected Thought, Edtech, Learning-journey, and more.

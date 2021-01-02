@@ -58,3 +58,5 @@ Power-Up rems are a special kind of rem which implement an additional functional
 
 - ⮉ Automatically Sort - Keep children sorted.
 - ⮉ Automatically Add Template - Templates tagged with this automatically add all slots when used.
+
+- ⮉ Extra Card Detail - Tag a children of a flash card with this to show it on the back of the card as well.
