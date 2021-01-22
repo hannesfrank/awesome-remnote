@@ -2,7 +2,7 @@
 
 A list of awesome [RemNote](https://remnote.io) plugins, themes, tutorials and other resources.
 
-[Web](https://www.remnote.io/homepage) | [Android](https://play.google.com/store/apps/details?id=com.remnote) | iOS (WIP) | Standalone (WIP)
+[Web](https://www.remnote.io/homepage) | [Desktop](https://www.remnote.io/download) (Windows/Linux/Mac) | [Android](https://play.google.com/store/apps/details?id=com.remnote) | iOS (WIP)
 
 <!-- TODO: Explain how the list works and what the goal is. -->
 <!-- **What is this list:** Think if it like a mind map of the RemNote Ecosystem.
