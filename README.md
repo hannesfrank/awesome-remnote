@@ -27,8 +27,8 @@ A list of awesome [RemNote](https://remnote.io) plugins, themes, tutorials and o
 - [Education Materials](#education-materials)
   - [Learning](#learning)
     - [Spaced Repetition](#spaced-repetition)
-    - [Note-taking](#note-taking)
-  - [Knowledge Bases](#knowledge-bases)
+  - [Note-taking](#note-taking)
+- [Knowledge Bases](#knowledge-bases)
 
 # Awesome Remnote
 
@@ -60,6 +60,8 @@ _How to get data from other services into RemNote._
 - Airr: [How to setup the Airr + RemNote integration](https://www.youtube.com/watch?v=Y92mPSugGBs) - Import highlights from podcast.
 - Zotero: [remnote-zotero-import](https://github.com/hannesfrank/remnote-zotero-import) - Paste literature references.
 
+<!--
+
 ## Extensions
 
 ### Plugins
@@ -87,19 +89,21 @@ Martin said one can ask the devs to add a plugin.
 Installed using [Stylus.](https://github.com/openstyles/stylus)
 
 - **[RemNoteTheme](https://github.com/ethomasv/RemNoteTheme)** - Modern design theme supporting light and dark mode.
-  - [Custom CSS version of tskn variant](https://hannesfrank.github.io/remnote-library/#/scroll/com.github.hannesfrank.remnote-library.tskn-theme)
+
 - [RemLight21](https://github.com/cannibalox/RemLight21) - A light theme for RemNote.
 
 ### Custom CSS
 
 _RemNote's appearance can be customized by pasting in and ticking css blocks on the `⮉ Custom CSS` page._
-_Not a full theme by itself, but styling specific features of RemNote. Can be used in conjunction with other themes._
 
 - [:scroll: RemNote Library.](https://hannesfrank.github.io/remnote-library/#/) - A website to discover and share Custom CSS. Installing CSS Snippets is a just copy&paste.
 
+#### Themes
+
+- [tskn's Theme](https://hannesfrank.github.io/remnote-library/#/scroll/com.github.hannesfrank.remnote-library.tskn-theme) built by [Eva Thomas](https://github.com/ethomasv)
+
 <!-- TODO: Show featured snippets here: Kanban, Columns, Icons, Themes -->
-<!-- - [Highlight Focsed Rem](./css/README.md#highlight-focused-rem) - Highlight the rem you are editing.
-- [Scroll Further Down](./css/README.md#scroll-further-down) - Ability to scroll further down such that you don't have to write on the bottom of the page. -->
+<!-- - [Highlight Focsed Rem](./css/README.md#highlight-focused-rem) - Highlight the rem you are editing. -->
 
 ### Development
 
@@ -108,7 +112,7 @@ _Things a plugin developer might need._
 - [Reference](docs/reference.md) in this repo - Undocumented links like an experimental trash to restore deleted rems and the list of Power-Up rems.
 - [Extensions, Plugins & Themes documenentation](https://www.remnote.io/documentation/nFTJ495uTxQTva9TL) in RemNote's Tutorial section.
 - [remnote-inspect](https://github.com/hannesfrank/remnote-inspect) - Show datastructure of context, focused Rem and Document.
-- [A feature request to allow more extensive formatting of rem.](https://forum.remnote.io/t/custom-rem-level-formatting-with-tags/168?u=hannesfrank)
+- [RemNote flavored Markdown.](https://forum.remnote.io/t/custom-rem-level-formatting-with-tags/168?u=hannesfrank) - Description of the syntax to insert content by both pasting and API.
   <!-- TODO: Guides, Github pages plugin template,  -->
   <!-- TODO: Add ability to paste content feature request -->
   <!-- TODO: Add css development tips -->
@@ -119,8 +123,15 @@ _How to use RemNote?_
 
 Get started by going through the interactive tutorial and looking at RemNote's excellent builtin documentation or the official Youtube channel. Then move onto community tutorials.
 
+- [Builtin Documentation](https://www.remnote.io/documentation)
 - [Official Tutorial Series](https://www.youtube.com/channel/UCgETcD9IVBbTIL9OjCoaloA/videos)
 - [Community video tutorials section of the documentation](https://www.remnote.io/documentation/5fc3c2b94aed570045281735)
+
+Selection of Video Tutorials that cover a specific topic more in depth:
+
+- [How To Use RemNote: Practical Note-taking Advice & Flashcard Types](https://www.youtube.com/watch?v=4m4_q4UEZDE) by Red Gregory
+- [How To Use RemNote Pt. 2: Templates & Daily Documents](https://www.youtube.com/watch?v=_NCXph5ZSOE) by Red Gregory
+- [Academic Paper Reading Workflow](https://www.youtube.com/watch?v=JOr6V-W9cdU) - PDF Integration by Nabhan
 
 ### Courses
 
@@ -130,7 +141,7 @@ Paid (💰) or free (🎓).
 
 - <img alt="german flag" src="img/flag-de.png" height="10px"> 💰 [RemNote – Das beste Lerntool verstehen und effektiv nutzen](https://turningpro.de/courses/remnote/preview) by Erich Heyzel
 
-# Education Materials
+## Education Materials
 
 _How to make the most out of RemNote?_
 
@@ -138,7 +149,7 @@ _How to make the most out of RemNote?_
 
 - [RemNote Tour with Founder Martin Schneider](https://www.youtube.com/watch?v=vlm3_57JuMI) - Interview with Martin Schneider by Robert Haisfield about the role of memory in knowledge management aka spaced repetition.
 
-## Learning
+### Learning
 
 _How to get knowledge into your head._
 
@@ -149,13 +160,19 @@ _How to get knowledge into your head._
   - The easy-to-read summary (popular science publication) "_What Works, What Doesn't"_ can be found [here](https://wcer.wisc.edu/docs/resources/cesa2017/Dunlosky_SciAmMind.pdf).
 - :books: [Learning Library](https://www.notion.so/Learning-Library-2ecb646b5e1e4d5c8274c73c3fbb2541) by Moritz Wallawitsch (RemNote Co-founder) - A library with links to resources about: Learning-Psychology, Note-Taking, Spaced Repetition, Memory, Visual Learning, Machine Learning, Attention, Creative thinking, Mental Models, Knowledge Representation, Reading, Connected Thought, Edtech, Learning-journey, and more.
 
-### Spaced Repetition
+#### Spaced Repetition
+
+_How to not forget what you have learned._
+
+Spaced-Repetition and Active Recall are _the_ best techniques to get knowledge into long term memory. They are deeply integrated into RemNote.
 
 - [How to Remember Everything Forever-ish](https://ncase.me/remember/) by Nicky Case - Playful introduction to spaced repetition.
 - [Augmenting Long-term Memory](http://augmentingcognition.com/ltm.html) by Michael Nielsen - Serious introduction to spaced repetition.
 - [Twenty rules of formulating knowledge](https://www.supermemo.com/en/archives1990-2015/articles/20rules) by Piotr Wozniak - Practical advice on how to formulate flash cards.
 
 ### Note-taking
+
+_How to get knowledge out of your head._
 
 - 📕 [_How To Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers_ by Sönke Ahrens](https://www.goodreads.com/book/show/34507927-how-to-take-smart-notes) - A description of the Zettelkasten method of note taking and its cognitive psychology underpinnings.
   - [Video of a presentation of key ideas in the book.](https://youtu.be/nPOI4f7yCag)
@@ -171,3 +188,16 @@ _Examples of other knowledge bases and how to build them._
 - [KasperZutterman/Second-Brain](https://github.com/KasperZutterman/Second-Brain) - A curated list of awesome Public Zettelkastens 🗄️ / Second Brains 🧠 / Digital Gardens 🌱.
 - [MaggieAppleton/digital-gardeners](https://github.com/MaggieAppleton/digital-gardeners) - Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs.
 - [brettkromkamp/awesome-knowledge-management](https://github.com/brettkromkamp/awesome-knowledge-management) - A curated list of amazingly awesome articles, people, applications, software libraries and projects related to the knowledge management space.
+
+<!-- These are not for RemNote itself. 
+### Frameworks
+Starting a knowledge base from scratch can get chaotic. Here are some frameworks to help you structure.
+- Zettelkasten/Evergreen Notes: Todo: Find visual guide/template. Maybe just this to get an idea: https://www.youtube.com/watch?v=jI2b1j9sL0I
+  - I think to most important part is labeling permanent notes.
+  - Fleeting and literature notes can be considered everything else.
+  - Fleeting are represented by daily notes.
+- Linking Your Thinking (Obsidian): https://www.linkingyourthinking.com/ Youtube: https://www.youtube.com/channel/UC85D7ERwhke7wVqskV_DZUA/playlists
+  - There is also a markdown template which you might be able to import to RemNote directly.
+- Pillars, Pipelines & Vaults (Notion): https://www.yearzero.io/notion-course Youtube: https://www.youtube.com/watch?v=d93SGaf82OM
+- BASB (PARA): https://maggieappleton.com/basb
+-->
