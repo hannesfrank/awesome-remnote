@@ -84,14 +84,6 @@ _Plugins extend the functionality of RemNote, featured plugins (⭐) can be inst
 Martin said one can ask the devs to add a plugin.
 -->
 
-### Themes
-
-Installed using [Stylus.](https://github.com/openstyles/stylus)
-
-- **[RemNoteTheme](https://github.com/ethomasv/RemNoteTheme)** - Modern design theme supporting light and dark mode.
-
-- [RemLight21](https://github.com/cannibalox/RemLight21) - A light theme for RemNote.
-
 ### Custom CSS
 
 _RemNote's appearance can be customized by pasting in and ticking css blocks on the `⮉ Custom CSS` page._
@@ -100,6 +92,7 @@ _RemNote's appearance can be customized by pasting in and ticking css blocks on 
 
 #### Themes
 
+<!-- Broken: **[RemNoteTheme](https://github.com/ethomasv/RemNoteTheme)** - Modern design theme supporting light and dark mode. -->
 - [tskn's Theme](https://hannesfrank.github.io/remnote-library/#/scroll/com.github.hannesfrank.remnote-library.tskn-theme) built by [Eva Thomas](https://github.com/ethomasv)
 
 <!-- TODO: Show featured snippets here: Kanban, Columns, Icons, Themes -->
