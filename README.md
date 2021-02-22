@@ -55,7 +55,8 @@ _How to get data from other services into RemNote._
 
 - **Chrome Extension: [RemNote Clipper](https://chrome.google.com/webstore/detail/remnote-clipper/ohidiiabdhnlgcaidgndbdbjlhngeboj)** - Save websites and take notes.
 - Twitter: [RemNoteBot](https://twitter.com/RemNoteBot/) - Send Twitter messages to RemNote.
-- Telegram: [rembot](https://github.com/dmrd/rembot) - Forward Telegram chats to RemNote.
+- Telegram: [RemNote-bot](https://github.com/pavlohrab/RemNote-bot) - Send notes to Daily Documents.
+<!-- - Telegram: [rembot](https://github.com/dmrd/rembot) - Forward Telegram chats to RemNote. -->
 - IFTTT: [Use IFTTT with RemNote to create notes and greater self knowledge](https://www.youtube.com/watch?v=f7byM4BIq8o) - Youtube video about how to automatically add data using IFTTT hooks, e.g. from watched Youtube videos, Beeminder goal datapoints and played music on Spotify.
 - Airr: [How to setup the Airr + RemNote integration](https://www.youtube.com/watch?v=Y92mPSugGBs) - Import highlights from podcast.
 - Zotero: [remnote-zotero-import](https://github.com/hannesfrank/remnote-zotero-import) - Paste literature references.
