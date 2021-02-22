@@ -96,6 +96,10 @@ _RemNote's appearance can be customized by pasting in and ticking css blocks on 
 <!-- Broken: **[RemNoteTheme](https://github.com/ethomasv/RemNoteTheme)** - Modern design theme supporting light and dark mode. -->
 - [tskn's Theme](https://hannesfrank.github.io/remnote-library/#/scroll/com.github.hannesfrank.remnote-library.tskn-theme) built by [Eva Thomas](https://github.com/ethomasv)
 - [Dracula theme](https://github.com/drstrangez0/Remnote-Dracula-theme) by [drstrangez0](https://github.com/drstrangez0)
+- [Dark Theme](https://github.com/JoshKoiro/RemNote-Theme#dark-theme-for-remnote) by [JoshKoiro](https://github.com/JoshKoiro)
+- [Light "Roam" Theme](https://github.com/JoshKoiro/RemNote-Theme#light-roam-theme-for-remnote) by [JoshKoiro](https://github.com/JoshKoi)
+- WIP: [Solarized Dark](https://github.com/arunnbabu81/Solarized-Dark-theme-for-Remnote) by [arunnbabu81](https://github.com/arunnbabu81)
+<!-- TODO: Make sure all repos have the correct tags (e.g. remnote-theme) and link the tag search here too -->
 <!-- TODO: Show featured snippets here: Kanban, Columns, Icons, Themes -->
 <!-- - [Highlight Focsed Rem](./css/README.md#highlight-focused-rem) - Highlight the rem you are editing. -->
 
