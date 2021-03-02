@@ -45,10 +45,12 @@ Power-Up rems are a special kind of rem which implement an additional functional
 - ⮉ Document Sidebar - Configure the sidebar sections.
 - ⮉ Custom CSS - Configure appearance.
 - ⮉ Daily Document - List of all Daily Notes.
+- ⮉ Thought Queue - Special document to store fleeting notes. There is a shortcut to directly add to it. This shortcut is system wide for the desktop app.
 
 - ⮉ Document - Turn a Rem Into a document (visible in document list) or folder.
   - ⮉ Status - Pinned/Draft/Finished
   - ⮉ Source - A Reference. Displayed below the title.
+- ⮉ Todo - Todo 
 - ⮉ Highlight - Coloring a Rem.
   - ⮉ Color
 - ⮉ Header
@@ -60,3 +62,5 @@ Power-Up rems are a special kind of rem which implement an additional functional
 - ⮉ Automatically Add Template - Templates tagged with this automatically add all slots when used.
 
 - ⮉ Extra Card Detail - Tag a children of a flash card with this to show it on the back of the card as well.
+
+- ⮉ File - Stores metadata for files uploaded to RemNote (currently only .pdf).
