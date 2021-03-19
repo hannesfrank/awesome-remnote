@@ -165,6 +165,7 @@ _How to not forget what you have learned._
 
 Spaced-Repetition and Active Recall are _the_ best techniques to get knowledge into long term memory. They are deeply integrated into RemNote.
 
+- [How to write good prompts: using spaced repetition to create understanding](https://andymatuschak.org/prompts/) by Andy Matuschak - Best practices and exercises to check your understanding.
 - [How to Remember Everything Forever-ish](https://ncase.me/remember/) by Nicky Case - Playful introduction to spaced repetition.
 - [Augmenting Long-term Memory](http://augmentingcognition.com/ltm.html) by Michael Nielsen - Serious introduction to spaced repetition.
 - [Twenty rules of formulating knowledge](https://www.supermemo.com/en/archives1990-2015/articles/20rules) by Piotr Wozniak - Practical advice on how to formulate flash cards.
