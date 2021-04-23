@@ -70,9 +70,9 @@ _Plugins extend the functionality of RemNote, featured plugins (⭐) can be inst
 
 <!-- TODO: describe how to install plugins that aren't featured in the app -->
 
-- ⭐ [Image Search](https://remnoteimagesearch.glitch.me/) - Search and insert images powered by Google Image Search.
 <!-- Superseeded by the builtin graph - ⭐ [RemNote Graph](https://www.nhanvu327.com/rem-plugins) - Graph Visualization for you knowledge base. 
   <small>Implementation currently not published on its [Github](https://github.com/nhanvu327/rem-graph).</small> -->
+- ⭐ [Image Search](https://remnoteimagesearch.glitch.me/) - Search and insert images powered by Google Image Search.
 - ⭐ Word Cloud - Visualize a document as a word cloud.
 - ⭐ Word Counter - Count the number of words on the page.
 - [RemNote-Pomodoro](https://github.com/sirvan3tr/RemNote-Pomodoro) - Pomodoro timer and activity logger.
