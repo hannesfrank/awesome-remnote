@@ -59,9 +59,8 @@ _How to get data from other services into RemNote._
 <!-- - Telegram: [rembot](https://github.com/dmrd/rembot) - Forward Telegram chats to RemNote. -->
 - IFTTT: [Use IFTTT with RemNote to create notes and greater self knowledge](https://www.youtube.com/watch?v=f7byM4BIq8o) - Youtube video about how to automatically add data using IFTTT hooks, e.g. from watched Youtube videos, Beeminder goal datapoints and played music on Spotify.
 - Airr: [How to setup the Airr + RemNote integration](https://www.youtube.com/watch?v=Y92mPSugGBs) - Import highlights from podcast.
-- Zotero: [remnote-zotero-import](https://github.com/hannesfrank/remnote-zotero-import) - Paste literature references.
-
-<!--
+- Zotero: [CSL-Remnote](https://github.com/ft-fk/CSL-Remnote) - Paste literature references. 
+  - Outdated: [remnote-zotero-import](https://github.com/hannesfrank/remnote-zotero-import)
 
 ## Extensions
 
@@ -72,14 +71,15 @@ _Plugins extend the functionality of RemNote, featured plugins (⭐) can be inst
 <!-- TODO: describe how to install plugins that aren't featured in the app -->
 
 - ⭐ [Image Search](https://remnoteimagesearch.glitch.me/) - Search and insert images powered by Google Image Search.
-- ⭐ [RemNote Graph](https://www.nhanvu327.com/rem-plugins) - Graph Visualization for you knowledge base.
-  <small>Implementation currently not published on its [Github](https://github.com/nhanvu327/rem-graph).</small>
+<!-- Superseeded by the builtin graph - ⭐ [RemNote Graph](https://www.nhanvu327.com/rem-plugins) - Graph Visualization for you knowledge base. 
+  <small>Implementation currently not published on its [Github](https://github.com/nhanvu327/rem-graph).</small> -->
 - ⭐ Word Cloud - Visualize a document as a word cloud.
 - ⭐ Word Counter - Count the number of words on the page.
 - [RemNote-Pomodoro](https://github.com/sirvan3tr/RemNote-Pomodoro) - Pomodoro timer and activity logger.
 - [remnote-schedule](https://github.com/hannesfrank/remnote-schedule) - Visualize your daily schedule. Inspired by [CrushEntropy.com](https://crushentropy.com/).
 - [English Dictionary](img/dictionary-plugin.png) - Look up definition of words
   - Note: As RemNote Plugins are just webpages, you can use any webservice which works well in an iframe.
+- [RemNote-Interactive-Code](https://github.com/sirvan3tr/RemNote-Interactive-Code) - Embed interactive code snippets.
 
 <!-- TODO: Can we get a link (remnote.io/plugins/add?name=myplugin&width=) to install a plugin with default settings. This would be a first and simple to implement step to a plugin store.
 Martin said one can ask the devs to add a plugin.
