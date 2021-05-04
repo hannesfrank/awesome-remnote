@@ -177,6 +177,7 @@ _How to get knowledge out of your head._
 - 📕 [_How To Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers_ by Sönke Ahrens](https://www.goodreads.com/book/show/34507927-how-to-take-smart-notes) - A description of the Zettelkasten method of note taking and its cognitive psychology underpinnings.
   - [Video of a presentation of key ideas in the book.](https://youtu.be/nPOI4f7yCag)
   - [PDF of slides that provide a visual comparison with other note-taking methods](https://strengejacke.files.wordpress.com/2015/10/introduction-into-luhmanns-zettelkasten-thinking.pdf)
+- [Andyʼs working notes](https://notes.andymatuschak.org/About_these_notes) - Andy Matuschak's "Evergreen" Notes, a public example of implementing a notes-first knowledge base that includes the rationale behind it.
 
 ## Knowledge Bases
 
