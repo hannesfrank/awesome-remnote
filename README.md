@@ -178,6 +178,9 @@ _How to get knowledge out of your head._
   - [Video of a presentation of key ideas in the book.](https://youtu.be/nPOI4f7yCag)
   - [PDF of slides that provide a visual comparison with other note-taking methods](https://strengejacke.files.wordpress.com/2015/10/introduction-into-luhmanns-zettelkasten-thinking.pdf)
 - [Andyʼs working notes](https://notes.andymatuschak.org/About_these_notes) - Andy Matuschak's "Evergreen" Notes, a public example of implementing a notes-first knowledge base that includes the rationale behind it.
+- Examples of implementations in different software and discussion about implementing in RemNote
+  - [[Video Tour and Article] Questions as zettels and literature notes inside zettelkasten ](https://forum.remnote.io/t/video-tour-and-article-questions-as-zettels-and-literature-notes-inside-zettelkasten/1523)
+  - [[Video Tour] Using block references in bulk and keeping all fleeting notes](https://forum.remnote.io/t/video-tour-using-block-references-in-bulk-and-keeping-all-fleeting-notes/1344)
 
 ## Knowledge Bases
 
