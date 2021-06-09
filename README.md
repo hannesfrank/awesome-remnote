@@ -93,13 +93,17 @@ _RemNote's appearance can be customized by pasting in and ticking css blocks on 
 
 #### Themes
 
+<!-- TODO: Make small preview images, see e.g. https://forum.remnote.io/t/dark-theme-for-remnote-inspired-by-solarized-dark-theme-updated/3630 and eustachio's themes for elements to feature in them, i.e. all headers, highlights, portals, queue) -->
+
+- [Solarized Dark](https://github.com/arunnbabu81/Solarized-Dark-theme-for-Remnote) by [arunnbabu81](https://github.com/arunnbabu81) ([Forum Link](https://forum.remnote.io/t/dark-theme-for-remnote-inspired-by-solarized-dark-theme-updated/3630/17?u=hannesfrank), [RemNote Article](https://www.remnote.io/a/solarized-dark-theme-for-remnote-arsheth/60abe52356ed52003fd3da17) for import)
+- [RemNote Dark Theme](https://github.com/eustachi0/RemNoteThemes/blob/main/RemNoteDarkTheme-by-eustachio.md) by [eustachio](https://github.com/eustachi0) ([Forum Link](https://forum.remnote.io/t/new-remnote-dark-theme-by-eustachio/5081))
 <!-- Broken: **[RemNoteTheme](https://github.com/ethomasv/RemNoteTheme)** - Modern design theme supporting light and dark mode. -->
 - [tskn's Theme](https://hannesfrank.github.io/remnote-library/#/scroll/com.github.hannesfrank.remnote-library.tskn-theme) built by [Eva Thomas](https://github.com/ethomasv)
-- [Light Theme](https://www.remnote.io/a/remnote-light-theme/6016e913ac98ad0034aefcb9) by eustachio
-- [Dracula theme](https://github.com/drstrangez0/Remnote-Dracula-theme) by [drstrangez0](https://github.com/drstrangez0)
+- [Light Theme](https://www.remnote.io/a/remnote-light-theme/6016e913ac98ad0034aefcb9) by [eustachio](https://github.com/eustachi0)
+- [Dracula theme](https://github.com/drstrangez0/Remnote-Dracula-theme) by [drstrangez0](https://github.com/drstrangez0) ([Forum Link](https://forum.remnote.io/t/dark-theme-dracula-colors/2691))
 - [Dark Theme](https://github.com/JoshKoiro/RemNote-Theme#dark-theme-for-remnote) by [JoshKoiro](https://github.com/JoshKoiro)
 - [Light "Roam" Theme](https://github.com/JoshKoiro/RemNote-Theme#light-roam-theme-for-remnote) by [JoshKoiro](https://github.com/JoshKoiro)
-- WIP: [Solarized Dark](https://github.com/arunnbabu81/Solarized-Dark-theme-for-Remnote) by [arunnbabu81](https://github.com/arunnbabu81)
+
 <!-- TODO: Make sure all repos have the correct tags (e.g. remnote-theme) and link the tag search here too -->
 <!-- TODO: Show featured snippets here: Kanban, Columns, Icons, Themes -->
 <!-- - [Highlight Focsed Rem](./css/README.md#highlight-focused-rem) - Highlight the rem you are editing. -->
