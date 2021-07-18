@@ -1,6 +1,6 @@
-![banner](img/remnote-banner.png)
+![RemNote logo](img/remnote-banner.png)
 
-A list of awesome [RemNote](https://remnote.io) plugins, themes, tutorials and other resources.
+A list of awesome [RemNote](https://remnote.io) and educational resources.
 
 [Web](https://www.remnote.io/homepage) | [Desktop](https://www.remnote.io/download) (Windows/Linux/Mac) | [Android](https://play.google.com/store/apps/details?id=com.remnote) | iOS (WIP)
 
@@ -14,40 +14,51 @@ A list of awesome [RemNote](https://remnote.io) plugins, themes, tutorials and o
  -->
  <!-- Add contributing guidelines -->
 
-- [Awesome Remnote](#awesome-remnote)
-  - [Community](#community)
-  - [Integrations](#integrations)
-  - [Extensions](#extensions)
-    - [Plugins](#plugins)
-    - [Themes](#themes)
-    - [Custom CSS](#custom-css)
-    - [Development](#development)
-  - [Tutorials](#tutorials)
-    - [Courses](#courses)
-- [Education Materials](#education-materials)
-  - [Learning](#learning)
-    - [Spaced Repetition](#spaced-repetition)
-  - [Note-taking](#note-taking)
-- [Knowledge Bases](#knowledge-bases)
 
-# Awesome Remnote
+# Tutorials
 
-## Community
+_How to use RemNote?_
+
+Get started by going through the interactive tutorial and looking at RemNote's excellent builtin documentation or the official Youtube channel. Then move onto community tutorials.
+
+- [Builtin Documentation](https://www.remnote.io/documentation)
+- [Official Tutorial Series](https://www.youtube.com/channel/UCgETcD9IVBbTIL9OjCoaloA/videos)
+- [Community video tutorials section of the documentation](https://www.remnote.io/documentation/5fc3c2b94aed570045281735)
+
+Selection of Video Tutorials that cover a specific topic more in depth:
+
+- [How To Use RemNote: Practical Note-taking Advice & Flashcard Types](https://www.youtube.com/watch?v=4m4_q4UEZDE) by Red Gregory.
+- [How To Use RemNote Pt. 2: Templates & Daily Documents](https://www.youtube.com/watch?v=_NCXph5ZSOE) by Red Gregory.
+- [Academic Paper Reading Workflow](https://www.youtube.com/watch?v=JOr6V-W9cdU) - PDF Integration using external apps by Nabhan.
+- [Demonstrating my Academic Paper Reading Workflow (ft. RemNote PRO)](https://www.youtube.com/watch?v=JOr6V-W9cdU) - PDF Integration using the Pro version native PDF features by Nabhan.
+
+## Courses
+
+_Comprehensive curricula covering all features of RemNote._
+
+Paid (💰) or free (🎓).
+
+- <img alt="german flag" src="img/flag-de.png" height="10px"> 💰 [RemNote – Das beste Lerntool verstehen und effektiv nutzen](https://turningpro.de/courses/remnote/preview) by Erich Heyzel.
+
+
+# Community
 
 <!-- TODO: Icons -->
 
 _Places to interact with community members and developers._
 
+- [Discord](https://bit.ly/REMNOTEdiscord) - Quick help and study groups.
+- [Discourse Forum](https://forum.remnote.io) - Q&A database, Feature Requests, workflow sharing.
 - [Github](https://github.com/remnoteio)
-  - [Issue Tracker](https://github.com/remnoteio/remnote-issues) - Report bugs
-  - [Frontend API](https://github.com/remnoteio/remnote-api) - Develop plugins
-- [Twitter](https://twitter.com/rem_note) - Daily tips and update notifications
-- [Youtube](https://www.youtube.com/channel/UCgETcD9IVBbTIL9OjCoaloA) - Tutorials and update demos
-- [Discord](https://bit.ly/REMNOTEdiscord) - Discussions and quick help
-- [Discourse Forum](https://forum.remnote.io) - Q/A database and Feature Requests
+  - [Issue Tracker](https://github.com/remnoteio/remnote-issues) - Report bugs.
+  - [Frontend API](https://github.com/remnoteio/remnote-api) - Develop plugins.
+- [Twitter](https://twitter.com/rem_note) - Daily tips and update notifications.
+- [Youtube](https://www.youtube.com/channel/UCgETcD9IVBbTIL9OjCoaloA) - Tutorials and update demos.
+
+
   <!-- - [Reddit](https://www.reddit.com/r/remNote/) - Deprecated: Replaced by Discorse Forum -->
 
-## Integrations
+# Integrations
 
 _How to get data from other services into RemNote._
 
@@ -58,13 +69,36 @@ _How to get data from other services into RemNote._
 - Telegram: [RemNote-bot](https://github.com/pavlohrab/RemNote-bot) - Send notes to Daily Documents.
 <!-- - Telegram: [rembot](https://github.com/dmrd/rembot) - Forward Telegram chats to RemNote. -->
 - IFTTT: [Use IFTTT with RemNote to create notes and greater self knowledge](https://www.youtube.com/watch?v=f7byM4BIq8o) - Youtube video about how to automatically add data using IFTTT hooks, e.g. from watched Youtube videos, Beeminder goal datapoints and played music on Spotify.
-- Airr: [How to setup the Airr + RemNote integration](https://www.youtube.com/watch?v=Y92mPSugGBs) - Import highlights from podcast.
+- Airr: [How to setup the Airr + RemNote integration](https://www.youtube.com/watch?v=Y92mPSugGBs) - Import transcribed highlights from podcasts.
 - Zotero: [CSL-Remnote](https://github.com/ft-fk/CSL-Remnote) - Paste literature references. 
   - Outdated: [remnote-zotero-import](https://github.com/hannesfrank/remnote-zotero-import)
 
-## Extensions
+# Extensions
 
-### Plugins
+## Custom CSS
+
+_RemNote's appearance can be customized by pasting in and ticking css blocks on the `⮉ Custom CSS` page._
+
+- [:scroll: RemNote Library.](https://hannesfrank.github.io/remnote-library/#/) - A website to discover Custom CSS.
+
+### Themes
+
+<!-- TODO: Make small preview images, see e.g. https://forum.remnote.io/t/dark-theme-for-remnote-inspired-by-solarized-dark-theme-updated/3630 and eustachio's themes for elements to feature in them, i.e. all headers, highlights, portals, queue) -->
+
+- [Solarized Dark](https://github.com/arunnbabu81/Solarized-Dark-theme-for-Remnote) by [arunnbabu81](https://github.com/arunnbabu81) ([Forum Link](https://forum.remnote.io/t/dark-theme-for-remnote-inspired-by-solarized-dark-theme-updated/3630/17?u=hannesfrank), [RemNote Article](https://www.remnote.io/a/solarized-dark-theme-for-remnote-arsheth/60abe52356ed52003fd3da17) for import)
+- [RemNote Dark Theme](https://github.com/eustachi0/RemNoteThemes/blob/main/RemNoteDarkTheme-by-eustachio.md) by [eustachio](https://github.com/eustachi0) ([Forum Link](https://forum.remnote.io/t/new-remnote-dark-theme-by-eustachio/5081))
+<!-- Broken: **[RemNoteTheme](https://github.com/ethomasv/RemNoteTheme)** - Modern design theme supporting light and dark mode. -->
+- [tskn's Theme](https://hannesfrank.github.io/remnote-library/#/scroll/com.github.hannesfrank.remnote-library.tskn-theme) built by [Eva Thomas](https://github.com/ethomasv)
+- [Light Theme](https://www.remnote.io/a/remnote-light-theme/6016e913ac98ad0034aefcb9) by [eustachio](https://github.com/eustachi0)
+- [Dracula theme](https://github.com/drstrangez0/Remnote-Dracula-theme) by [drstrangez0](https://github.com/drstrangez0) ([Forum Link](https://forum.remnote.io/t/dark-theme-dracula-colors/2691))
+- [Dark Theme](https://github.com/JoshKoiro/RemNote-Theme#dark-theme-for-remnote) by [JoshKoiro](https://github.com/JoshKoiro)
+- [Light "Roam" Theme](https://github.com/JoshKoiro/RemNote-Theme#light-roam-theme-for-remnote) by [JoshKoiro](https://github.com/JoshKoiro)
+
+<!-- TODO: Make sure all repos have the correct tags (e.g. remnote-theme) and link the tag search here too -->
+<!-- TODO: Show featured snippets here: Kanban, Columns, Icons, Themes -->
+<!-- - [Highlight Focsed Rem](./css/README.md#highlight-focused-rem) - Highlight the rem you are editing. -->
+
+## Plugins
 
 _Plugins extend the functionality of RemNote, featured plugins (⭐) can be installed directly from [remnote.io/plugins](https://www.remnote.io/plugins)._
 
@@ -85,32 +119,9 @@ _Plugins extend the functionality of RemNote, featured plugins (⭐) can be inst
 Martin said one can ask the devs to add a plugin.
 -->
 
-### Custom CSS
+## Development
 
-_RemNote's appearance can be customized by pasting in and ticking css blocks on the `⮉ Custom CSS` page._
-
-- [:scroll: RemNote Library.](https://hannesfrank.github.io/remnote-library/#/) - A website to discover and share Custom CSS. Installing CSS Snippets is a just copy&paste.
-
-#### Themes
-
-<!-- TODO: Make small preview images, see e.g. https://forum.remnote.io/t/dark-theme-for-remnote-inspired-by-solarized-dark-theme-updated/3630 and eustachio's themes for elements to feature in them, i.e. all headers, highlights, portals, queue) -->
-
-- [Solarized Dark](https://github.com/arunnbabu81/Solarized-Dark-theme-for-Remnote) by [arunnbabu81](https://github.com/arunnbabu81) ([Forum Link](https://forum.remnote.io/t/dark-theme-for-remnote-inspired-by-solarized-dark-theme-updated/3630/17?u=hannesfrank), [RemNote Article](https://www.remnote.io/a/solarized-dark-theme-for-remnote-arsheth/60abe52356ed52003fd3da17) for import)
-- [RemNote Dark Theme](https://github.com/eustachi0/RemNoteThemes/blob/main/RemNoteDarkTheme-by-eustachio.md) by [eustachio](https://github.com/eustachi0) ([Forum Link](https://forum.remnote.io/t/new-remnote-dark-theme-by-eustachio/5081))
-<!-- Broken: **[RemNoteTheme](https://github.com/ethomasv/RemNoteTheme)** - Modern design theme supporting light and dark mode. -->
-- [tskn's Theme](https://hannesfrank.github.io/remnote-library/#/scroll/com.github.hannesfrank.remnote-library.tskn-theme) built by [Eva Thomas](https://github.com/ethomasv)
-- [Light Theme](https://www.remnote.io/a/remnote-light-theme/6016e913ac98ad0034aefcb9) by [eustachio](https://github.com/eustachi0)
-- [Dracula theme](https://github.com/drstrangez0/Remnote-Dracula-theme) by [drstrangez0](https://github.com/drstrangez0) ([Forum Link](https://forum.remnote.io/t/dark-theme-dracula-colors/2691))
-- [Dark Theme](https://github.com/JoshKoiro/RemNote-Theme#dark-theme-for-remnote) by [JoshKoiro](https://github.com/JoshKoiro)
-- [Light "Roam" Theme](https://github.com/JoshKoiro/RemNote-Theme#light-roam-theme-for-remnote) by [JoshKoiro](https://github.com/JoshKoiro)
-
-<!-- TODO: Make sure all repos have the correct tags (e.g. remnote-theme) and link the tag search here too -->
-<!-- TODO: Show featured snippets here: Kanban, Columns, Icons, Themes -->
-<!-- - [Highlight Focsed Rem](./css/README.md#highlight-focused-rem) - Highlight the rem you are editing. -->
-
-### Development
-
-_Things a plugin developer might need._
+_Things an extension developer might need._
 
 - [Reference](docs/reference.md) in this repo - Undocumented links like an experimental trash to restore deleted rems and the list of Power-Up rems.
 - [Extensions, Plugins & Themes documenentation](https://www.remnote.io/documentation/nFTJ495uTxQTva9TL) in RemNote's Tutorial section.
@@ -120,31 +131,7 @@ _Things a plugin developer might need._
   <!-- TODO: Add ability to paste content feature request -->
   <!-- TODO: Add css development tips -->
 
-## Tutorials
-
-_How to use RemNote?_
-
-Get started by going through the interactive tutorial and looking at RemNote's excellent builtin documentation or the official Youtube channel. Then move onto community tutorials.
-
-- [Builtin Documentation](https://www.remnote.io/documentation)
-- [Official Tutorial Series](https://www.youtube.com/channel/UCgETcD9IVBbTIL9OjCoaloA/videos)
-- [Community video tutorials section of the documentation](https://www.remnote.io/documentation/5fc3c2b94aed570045281735)
-
-Selection of Video Tutorials that cover a specific topic more in depth:
-
-- [How To Use RemNote: Practical Note-taking Advice & Flashcard Types](https://www.youtube.com/watch?v=4m4_q4UEZDE) by Red Gregory
-- [How To Use RemNote Pt. 2: Templates & Daily Documents](https://www.youtube.com/watch?v=_NCXph5ZSOE) by Red Gregory
-- [Academic Paper Reading Workflow](https://www.youtube.com/watch?v=JOr6V-W9cdU) - PDF Integration by Nabhan
-
-### Courses
-
-_Comprehensive curricula covering all features of RemNote._
-
-Paid (💰) or free (🎓).
-
-- <img alt="german flag" src="img/flag-de.png" height="10px"> 💰 [RemNote – Das beste Lerntool verstehen und effektiv nutzen](https://turningpro.de/courses/remnote/preview) by Erich Heyzel
-
-## Education Materials
+# Education Materials
 
 _How to make the most out of RemNote?_
 
@@ -152,18 +139,18 @@ _How to make the most out of RemNote?_
 
 - [RemNote Tour with Founder Martin Schneider](https://www.youtube.com/watch?v=vlm3_57JuMI) - Interview with Martin Schneider by Robert Haisfield about the role of memory in knowledge management aka spaced repetition.
 
-### Learning
+## Learning
 
 _How to get knowledge into your head._
 
 - :mortar_board: [Learning how to Learn by Barbara Oakley and Terrence Sejnowski.](https://www.coursera.org/learn/learning-how-to-learn) A MOOC of empirically proven learning techniques in the simplest possible terms.
   - :closed_book:[A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)](https://www.goodreads.com/book/show/18693655-a-mind-for-numbers) accompanying book, can be read without taking the course or alongside it.
 - 📕 [Make it Stick: The Science of Successful Learning\_ by Peter C. Brown, Henry L. Roediger III, Mark A. McDaniel](https://www.goodreads.com/book/show/18770267-make-it-stick) Drawing on recent discoveries in cognitive psychology and other disciplines, the authors offer concrete techniques for becoming more productive learners.
-- 📄 _Improving Students’ Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology_ by John Dunlosky, Katherine A. Rawson, Elizabeth J. Marsh, Mitchell J. Nathan, Daniel T. Willingham - Paper investigating the (in)effectiveness of learning techniques (elaborative interrogation, self-explanation, summarization, highlighting, keyword mnemonic, imagery use for text learning, rereading, practice testing, distributed practice, and interleaved practice).
-  - The easy-to-read summary (popular science publication) "_What Works, What Doesn't"_ can be found [here](https://wcer.wisc.edu/docs/resources/cesa2017/Dunlosky_SciAmMind.pdf).
+- 📄 [Improving Students’ Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology](https://pcl.sitehost.iu.edu/rgoldsto/courses/cogscilearning/dunloskiimprovingstudentlearning.pdf) by John Dunlosky, Katherine A. Rawson, Elizabeth J. Marsh, Mitchell J. Nathan, Daniel T. Willingham - Paper investigating the (in)effectiveness of learning techniques (elaborative interrogation, self-explanation, summarization, highlighting, keyword mnemonic, imagery use for text learning, rereading, practice testing, distributed practice, and interleaved practice).
+  -  ["What Works, What Doesn't"](https://wcer.wisc.edu/docs/resources/cesa2017/Dunlosky_SciAmMind.pdf) - The easy-to-read illustrated summary by the original authors in a popular science publication.
 - :books: [Learning Library](https://www.notion.so/Learning-Library-2ecb646b5e1e4d5c8274c73c3fbb2541) by Moritz Wallawitsch (RemNote Co-founder) - A library with links to resources about: Learning-Psychology, Note-Taking, Spaced Repetition, Memory, Visual Learning, Machine Learning, Attention, Creative thinking, Mental Models, Knowledge Representation, Reading, Connected Thought, Edtech, Learning-journey, and more.
 
-#### Spaced Repetition
+### Spaced Repetition
 
 _How to not forget what you have learned._
 
@@ -174,21 +161,23 @@ Spaced-Repetition and Active Recall are _the_ best techniques to get knowledge i
 - [Augmenting Long-term Memory](http://augmentingcognition.com/ltm.html) by Michael Nielsen - Serious introduction to spaced repetition.
 - [Twenty rules of formulating knowledge](https://www.supermemo.com/en/archives1990-2015/articles/20rules) by Piotr Wozniak - Practical advice on how to formulate flash cards.
 
-### Note-taking
+## Note-taking
 
 _How to get knowledge out of your head._
 
-- 📕 [_How To Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers_ by Sönke Ahrens](https://www.goodreads.com/book/show/34507927-how-to-take-smart-notes) - A description of the Zettelkasten method of note taking and its cognitive psychology underpinnings.
-  - [Video of a presentation of key ideas in the book.](https://youtu.be/nPOI4f7yCag)
+- 📕 [How To Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers](https://www.goodreads.com/book/show/34507927-how-to-take-smart-notes) by Sönke Ahrens - A description of the Zettelkasten method of note taking and its cognitive psychology underpinnings.
+  - [Video of a presentation of key ideas in the book](https://youtu.be/nPOI4f7yCag)
   - [PDF of slides that provide a visual comparison with other note-taking methods](https://strengejacke.files.wordpress.com/2015/10/introduction-into-luhmanns-zettelkasten-thinking.pdf)
 - [Andyʼs working notes](https://notes.andymatuschak.org/About_these_notes) - Andy Matuschak's "Evergreen" Notes, a public example of implementing a notes-first knowledge base that includes the rationale behind it.
+  - [A selection of notes that provide a direct comparison to Zettelkasten](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C&stackedNotes=z4AX7pHAu5uUfmrq4K4zig9x8jmmF62XgaMXm&stackedNotes=z6f6xgGG4NKjkA5NA1kDd46whJh2Gt5rAmfX)
 - Examples of implementations in different software and discussion about implementing in RemNote
-  - [[Video Tour and Article] Questions as zettels and literature notes inside zettelkasten ](https://forum.remnote.io/t/video-tour-and-article-questions-as-zettels-and-literature-notes-inside-zettelkasten/1523)
+  - [[Video Tour and Article] Questions as zettels and literature notes inside zettelkasten](https://forum.remnote.io/t/video-tour-and-article-questions-as-zettels-and-literature-notes-inside-zettelkasten/1523)
   - [[Video Tour] Using block references in bulk and keeping all fleeting notes](https://forum.remnote.io/t/video-tour-using-block-references-in-bulk-and-keeping-all-fleeting-notes/1344)
+  - [[Article] Zettelkasten in Roam while sticking to manual numbering](https://forum.remnote.io/t/article-zettelkasten-in-roam-while-sticking-to-manual-numbering/5659)
 
-## Knowledge Bases
+# Knowledge Bases
 
-_Examples of other knowledge bases and how to build them._
+_Examples of other people's personal knowledge bases and related resources._
 
 <!-- TODO: These are awesome lists. Add glasses icons. -->
 
