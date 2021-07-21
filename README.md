@@ -1,6 +1,6 @@
 ![RemNote logo](img/remnote-banner.png)
 
-A list of awesome [RemNote](https://remnote.io) and educational resources.
+A list of awesome [RemNote](https://remnote.io) tutorials, extensions, themes and educational resources.
 
 [Web](https://www.remnote.io/homepage) | [Desktop](https://www.remnote.io/download) (Windows/Linux/Mac) | [Android](https://play.google.com/store/apps/details?id=com.remnote) | iOS (WIP)
 
@@ -14,7 +14,22 @@ A list of awesome [RemNote](https://remnote.io) and educational resources.
  -->
  <!-- Add contributing guidelines -->
 
+# Community
 
+<!-- TODO: Icons -->
+
+_Places to interact with community members and developers._
+
+- [Discord](https://bit.ly/REMNOTEdiscord) - Quick help and study groups.
+- [Discourse Forum](https://forum.remnote.io) - Q&A database, Feature Requests, workflow sharing.
+- [Twitter](https://twitter.com/rem_note) - Daily tips and update notifications.
+- [Youtube](https://www.youtube.com/channel/UCgETcD9IVBbTIL9OjCoaloA) - Tutorials and update demos.
+- [Github](https://github.com/remnoteio)
+  - [Issue Tracker](https://github.com/remnoteio/remnote-issues) - Report bugs.
+  - [Frontend API](https://github.com/remnoteio/remnote-api) - Develop plugins.
+
+<!-- - [Reddit](https://www.reddit.com/r/remNote/) - Deprecated: Replaced by Discorse Forum -->
+  
 # Tutorials
 
 _How to use RemNote?_
@@ -39,24 +54,6 @@ _Comprehensive curricula covering all features of RemNote._
 Paid (💰) or free (🎓).
 
 - <img alt="german flag" src="img/flag-de.png" height="10px"> 💰 [RemNote – Das beste Lerntool verstehen und effektiv nutzen](https://turningpro.de/courses/remnote/preview) by Erich Heyzel.
-
-
-# Community
-
-<!-- TODO: Icons -->
-
-_Places to interact with community members and developers._
-
-- [Discord](https://bit.ly/REMNOTEdiscord) - Quick help and study groups.
-- [Discourse Forum](https://forum.remnote.io) - Q&A database, Feature Requests, workflow sharing.
-- [Github](https://github.com/remnoteio)
-  - [Issue Tracker](https://github.com/remnoteio/remnote-issues) - Report bugs.
-  - [Frontend API](https://github.com/remnoteio/remnote-api) - Develop plugins.
-- [Twitter](https://twitter.com/rem_note) - Daily tips and update notifications.
-- [Youtube](https://www.youtube.com/channel/UCgETcD9IVBbTIL9OjCoaloA) - Tutorials and update demos.
-
-
-  <!-- - [Reddit](https://www.reddit.com/r/remNote/) - Deprecated: Replaced by Discorse Forum -->
 
 # Integrations
 
