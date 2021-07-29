@@ -168,9 +168,10 @@ _How to get knowledge out of your head._
 - [Andyʼs working notes](https://notes.andymatuschak.org/About_these_notes) - Andy Matuschak's "Evergreen" Notes, a public example of implementing a notes-first knowledge base that includes the rationale behind it.
   - [A selection of notes that provide a direct comparison to Zettelkasten](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C&stackedNotes=z4AX7pHAu5uUfmrq4K4zig9x8jmmF62XgaMXm&stackedNotes=z6f6xgGG4NKjkA5NA1kDd46whJh2Gt5rAmfX)
 - Examples of implementations in different software and discussion about implementing in RemNote
-  - [[Video Tour and Article] Questions as zettels and literature notes inside zettelkasten](https://forum.remnote.io/t/video-tour-and-article-questions-as-zettels-and-literature-notes-inside-zettelkasten/1523)
-  - [[Video Tour] Using block references in bulk and keeping all fleeting notes](https://forum.remnote.io/t/video-tour-using-block-references-in-bulk-and-keeping-all-fleeting-notes/1344)
-  - [[Article] Zettelkasten in Roam while sticking to manual numbering](https://forum.remnote.io/t/article-zettelkasten-in-roam-while-sticking-to-manual-numbering/5659)
+  - [[Video Tour and Article] (by Joel Chan) Zettelkasten in Roam. Questions as zettels and literature notes inside zettelkasten](https://forum.remnote.io/t/video-tour-and-article-by-joel-chan-zettelkasten-in-roam-questions-as-zettels-and-literature-notes-inside-zettelkasten/1523)
+  - [[Video Tour] (by Beau Haan) Zettelkasten in Roam. Using block references in bulk and keeping all fleeting notes](https://forum.remnote.io/t/video-tour-by-beau-haan-zettelkasten-in-roam-using-block-references-in-bulk-and-keeping-all-fleeting-notes/1344)
+  - [[Article] (by Eva Keiffenheim) Zettelkasten in Roam while sticking to manual numbering](https://forum.remnote.io/t/article-by-eva-keiffenheim-zettelkasten-in-roam-while-sticking-to-manual-numbering/5659)
+  - [[Article] (by Maarten van Doorn) Evergreen Zettelkasten in Roam with Universal Descriptors for related notes](https://forum.remnote.io/t/article-by-maarten-van-doorn-evergreen-zettelkasten-in-roam-with-universal-descriptors-for-related-notes/5810)
 
 # Knowledge Bases
 
