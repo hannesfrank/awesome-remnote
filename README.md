@@ -162,16 +162,17 @@ Spaced-Repetition and Active Recall are _the_ best techniques to get knowledge i
 
 _How to get knowledge out of your head._
 
-- 📕 [How To Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers](https://www.goodreads.com/book/show/34507927-how-to-take-smart-notes) by Sönke Ahrens - A description of the Zettelkasten method of note taking and its cognitive psychology underpinnings.
-  - [Video of a presentation of key ideas in the book](https://youtu.be/nPOI4f7yCag)
-  - [PDF of slides that provide a visual comparison with other note-taking methods](https://strengejacke.files.wordpress.com/2015/10/introduction-into-luhmanns-zettelkasten-thinking.pdf)
-- [Andyʼs working notes](https://notes.andymatuschak.org/About_these_notes) - Andy Matuschak's "Evergreen" Notes, a public example of implementing a notes-first knowledge base that includes the rationale behind it.
-  - [A selection of notes that provide a direct comparison to Zettelkasten](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C&stackedNotes=z4AX7pHAu5uUfmrq4K4zig9x8jmmF62XgaMXm&stackedNotes=z6f6xgGG4NKjkA5NA1kDd46whJh2Gt5rAmfX)
+- [:closed_book: How To Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers](https://www.goodreads.com/book/show/34507927-how-to-take-smart-notes) by Sönke Ahrens - A description of the Zettelkasten method of note taking and its cognitive psychology underpinnings.
+  - [:tv: Video of a presentation of key ideas in the book](https://youtu.be/nPOI4f7yCag)
+  - [:memo: PDF of slides that provide a visual comparison with other note-taking methods](https://strengejacke.files.wordpress.com/2015/10/introduction-into-luhmanns-zettelkasten-thinking.pdf)
+- [:memo: Andyʼs working notes](https://notes.andymatuschak.org/About_these_notes) - Andy Matuschak's "Evergreen" Notes, a public example of implementing a notes-first knowledge base that includes the rationale behind it.
+  - [:memo: A selection of notes that provide a direct comparison to Zettelkasten](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C&stackedNotes=z4AX7pHAu5uUfmrq4K4zig9x8jmmF62XgaMXm&stackedNotes=z6f6xgGG4NKjkA5NA1kDd46whJh2Gt5rAmfX)
+  -  [:tv: A video of evergreen note creation, including fleeting and literature note stages](https://www.youtube.com/watch?v=DGcs4tyey18)
 - Examples of implementations in different software and discussion about implementing in RemNote
-  - [[Video Tour and Article] (by Joel Chan) Zettelkasten in Roam. Questions as zettels and literature notes inside zettelkasten](https://forum.remnote.io/t/video-tour-and-article-by-joel-chan-zettelkasten-in-roam-questions-as-zettels-and-literature-notes-inside-zettelkasten/1523)
-  - [[Video Tour] (by Beau Haan) Zettelkasten in Roam. Using block references in bulk and keeping all fleeting notes](https://forum.remnote.io/t/video-tour-by-beau-haan-zettelkasten-in-roam-using-block-references-in-bulk-and-keeping-all-fleeting-notes/1344)
-  - [[Article] (by Eva Keiffenheim) Zettelkasten in Roam while sticking to manual numbering](https://forum.remnote.io/t/article-by-eva-keiffenheim-zettelkasten-in-roam-while-sticking-to-manual-numbering/5659)
-  - [[Article] (by Maarten van Doorn) Evergreen Zettelkasten in Roam with Universal Descriptors for related notes](https://forum.remnote.io/t/article-by-maarten-van-doorn-evergreen-zettelkasten-in-roam-with-universal-descriptors-for-related-notes/5810)
+  - [:tv::memo:[Video Tour and Article] (by Joel Chan) Zettelkasten in Roam. Questions as zettels and literature notes inside zettelkasten](https://forum.remnote.io/t/video-tour-and-article-by-joel-chan-zettelkasten-in-roam-questions-as-zettels-and-literature-notes-inside-zettelkasten/1523)
+  - [:tv:[Video Tour] (by Beau Haan) Zettelkasten in Roam. Using block references in bulk and keeping all fleeting notes](https://forum.remnote.io/t/video-tour-by-beau-haan-zettelkasten-in-roam-using-block-references-in-bulk-and-keeping-all-fleeting-notes/1344)
+  - [:memo:[Article] (by Eva Keiffenheim) Zettelkasten in Roam while sticking to manual numbering](https://forum.remnote.io/t/article-by-eva-keiffenheim-zettelkasten-in-roam-while-sticking-to-manual-numbering/5659)
+  - [:memo:[Article] (by Maarten van Doorn) Evergreen Zettelkasten in Roam with Universal Descriptors for related notes](https://forum.remnote.io/t/article-by-maarten-van-doorn-evergreen-zettelkasten-in-roam-with-universal-descriptors-for-related-notes/5810)
 
 # Knowledge Bases
 
