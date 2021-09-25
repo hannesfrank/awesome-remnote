@@ -168,6 +168,7 @@ _How to get knowledge out of your head._
 - [:memo: Andyʼs working notes](https://notes.andymatuschak.org/About_these_notes) - Andy Matuschak's "Evergreen" Notes, a public example of implementing a notes-first knowledge base that includes the rationale behind it.
   - [:memo: A selection of notes that provide a direct comparison to Zettelkasten](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z4SDCZQeRo4xFEQ8H4qrSqd68ucpgE6LU155C&stackedNotes=z4AX7pHAu5uUfmrq4K4zig9x8jmmF62XgaMXm&stackedNotes=z6f6xgGG4NKjkA5NA1kDd46whJh2Gt5rAmfX)
   -  [:tv: A video of evergreen note creation, including fleeting and literature note stages](https://www.youtube.com/watch?v=DGcs4tyey18)
+  -  [:tv: A video of reading a systematic review paper and generating literature notes, prompts (flashcards), evergreen notes and a follow-up reading list](https://www.youtube.com/watch?v=kG2_6ToMZgI)
 - Examples of implementations in different software and discussion about implementing in RemNote
   - [:tv::memo:[Video Tour and Article] (by Joel Chan) Zettelkasten in Roam. Questions as zettels and literature notes inside zettelkasten](https://forum.remnote.io/t/video-tour-and-article-by-joel-chan-zettelkasten-in-roam-questions-as-zettels-and-literature-notes-inside-zettelkasten/1523)
   - [:tv:[Video Tour] (by Beau Haan) Zettelkasten in Roam. Using block references in bulk and keeping all fleeting notes](https://forum.remnote.io/t/video-tour-by-beau-haan-zettelkasten-in-roam-using-block-references-in-bulk-and-keeping-all-fleeting-notes/1344)
