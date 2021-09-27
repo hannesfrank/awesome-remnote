@@ -111,7 +111,7 @@ _Plugins extend the functionality of RemNote, featured plugins (⭐) can be inst
 - [English Dictionary](img/dictionary-plugin.png) - Look up definition of words
   - Note: As RemNote Plugins are just webpages, you can use any webservice which works well in an iframe.
 - [RemNote-Interactive-Code](https://github.com/sirvan3tr/RemNote-Interactive-Code) - Embed interactive code snippets.
-
+- [RemNote Image Editor](https://remnoteimageeditor.glitch.me/) - Draw on an image. Modified image is hosted on `imgur.com`.
 <!-- TODO: Can we get a link (remnote.io/plugins/add?name=myplugin&width=) to install a plugin with default settings. This would be a first and simple to implement step to a plugin store.
 Martin said one can ask the devs to add a plugin.
 -->
