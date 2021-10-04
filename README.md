@@ -1,4 +1,4 @@
-![RemNote logo](img/remnote-banner.png)
+![RemNote logo](img/remnote-logo.svg)
 
 A list of awesome [RemNote](https://remnote.io) tutorials, extensions, themes and educational resources.
 
