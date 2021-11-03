@@ -77,6 +77,8 @@ _How to get data from other services into RemNote._
 _RemNote's appearance can be customized by pasting in and ticking css blocks on the `⮉ Custom CSS` page._
 
 - [:scroll: RemNote Library.](https://hannesfrank.github.io/remnote-library/#/) - A website to discover Custom CSS.
+- [Browneyedsoul's RemNote CSS Library](https://github.com/browneyedsoul/RemNote-CSS-Library) - A Curated List of RemNote CSS Snippets for Better Note-taking and Spaced Repetition
+- [[Wiki] CSS snippets to make things more compact and information dense and/or less visually obtrusive](https://forum.remnote.io/t/wiki-css-snippets-to-make-things-more-compact-and-information-dense-and-or-less-visually-obtrusive/7016) - Forum wiki topic with snippets that match the goals of having as much usable information visible on the screen at the same time as possible and removing any information that is not needed or extraneous visual elements.
 
 ### Themes
 
@@ -134,18 +136,18 @@ _How to make the most out of RemNote?_
 
 <!-- TODO: Add references from my RemNote -->
 
-- [RemNote Tour with Founder Martin Schneider](https://www.youtube.com/watch?v=vlm3_57JuMI) - Interview with Martin Schneider by Robert Haisfield about the role of memory in knowledge management aka spaced repetition.
+- [:tv: RemNote Tour with Founder Martin Schneider](https://www.youtube.com/watch?v=vlm3_57JuMI) - Interview with Martin Schneider by Robert Haisfield about the role of memory in knowledge management aka spaced repetition.
 
 ## Learning
 
 _How to get knowledge into your head._
 
 - :mortar_board: [Learning how to Learn by Barbara Oakley and Terrence Sejnowski.](https://www.coursera.org/learn/learning-how-to-learn) A MOOC of empirically proven learning techniques in the simplest possible terms.
-  - :closed_book:[A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)](https://www.goodreads.com/book/show/18693655-a-mind-for-numbers) accompanying book, can be read without taking the course or alongside it.
-- 📕 [Make it Stick: The Science of Successful Learning\_ by Peter C. Brown, Henry L. Roediger III, Mark A. McDaniel](https://www.goodreads.com/book/show/18770267-make-it-stick) Drawing on recent discoveries in cognitive psychology and other disciplines, the authors offer concrete techniques for becoming more productive learners.
-- 📄 [Improving Students’ Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology](https://pcl.sitehost.iu.edu/rgoldsto/courses/cogscilearning/dunloskiimprovingstudentlearning.pdf) by John Dunlosky, Katherine A. Rawson, Elizabeth J. Marsh, Mitchell J. Nathan, Daniel T. Willingham - Paper investigating the (in)effectiveness of learning techniques (elaborative interrogation, self-explanation, summarization, highlighting, keyword mnemonic, imagery use for text learning, rereading, practice testing, distributed practice, and interleaved practice).
-  -  ["What Works, What Doesn't"](https://wcer.wisc.edu/docs/resources/cesa2017/Dunlosky_SciAmMind.pdf) - The easy-to-read illustrated summary by the original authors in a popular science publication.
-- :books: [Learning Library](https://www.notion.so/Learning-Library-2ecb646b5e1e4d5c8274c73c3fbb2541) by Moritz Wallawitsch (RemNote Co-founder) - A library with links to resources about: Learning-Psychology, Note-Taking, Spaced Repetition, Memory, Visual Learning, Machine Learning, Attention, Creative thinking, Mental Models, Knowledge Representation, Reading, Connected Thought, Edtech, Learning-journey, and more.
+- [:closed_book: A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)](https://www.goodreads.com/book/show/18693655-a-mind-for-numbers) accompanying book, can be read without taking the course or alongside it.
+- [:closed_book: Make it Stick: The Science of Successful Learning\_ by Peter C. Brown, Henry L. Roediger III, Mark A. McDaniel](https://www.goodreads.com/book/show/18770267-make-it-stick) Drawing on recent discoveries in cognitive psychology and other disciplines, the authors offer concrete techniques for becoming more productive learners.
+- [:page_facing_up: Improving Students’ Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology](https://pcl.sitehost.iu.edu/rgoldsto/courses/cogscilearning/dunloskiimprovingstudentlearning.pdf) by John Dunlosky, Katherine A. Rawson, Elizabeth J. Marsh, Mitchell J. Nathan, Daniel T. Willingham - Paper investigating the (in)effectiveness of learning techniques (elaborative interrogation, self-explanation, summarization, highlighting, keyword mnemonic, imagery use for text learning, rereading, practice testing, distributed practice, and interleaved practice).
+  -  [:memo: "What Works, What Doesn't"](https://wcer.wisc.edu/docs/resources/cesa2017/Dunlosky_SciAmMind.pdf) - The easy-to-read illustrated summary by the original authors in a popular science publication.
+-  [:books: Learning Library](https://www.notion.so/Learning-Library-2ecb646b5e1e4d5c8274c73c3fbb2541) by Moritz Wallawitsch (RemNote Co-founder) - A library with links to resources about: Learning-Psychology, Note-Taking, Spaced Repetition, Memory, Visual Learning, Machine Learning, Attention, Creative thinking, Mental Models, Knowledge Representation, Reading, Connected Thought, Edtech, Learning-journey, and more.
 
 ### Spaced Repetition
 
@@ -153,10 +155,10 @@ _How to not forget what you have learned._
 
 Spaced-Repetition and Active Recall are _the_ best techniques to get knowledge into long term memory. They are deeply integrated into RemNote.
 
-- [How to write good prompts: using spaced repetition to create understanding](https://andymatuschak.org/prompts/) by Andy Matuschak - Best practices and exercises to check your understanding.
-- [How to Remember Everything Forever-ish](https://ncase.me/remember/) by Nicky Case - Playful introduction to spaced repetition.
-- [Augmenting Long-term Memory](http://augmentingcognition.com/ltm.html) by Michael Nielsen - Serious introduction to spaced repetition.
-- [Twenty rules of formulating knowledge](https://www.supermemo.com/en/archives1990-2015/articles/20rules) by Piotr Wozniak - Practical advice on how to formulate flash cards.
+- [:memo: How to write good prompts: using spaced repetition to create understanding](https://andymatuschak.org/prompts/) by Andy Matuschak - Best practices and exercises to check your understanding.
+- [:memo: How to Remember Everything Forever-ish](https://ncase.me/remember/) by Nicky Case - Playful introduction to spaced repetition.
+- [:memo: Augmenting Long-term Memory](http://augmentingcognition.com/ltm.html) by Michael Nielsen - Serious introduction to spaced repetition.
+- [:memo: Twenty rules of formulating knowledge](https://www.supermemo.com/en/archives1990-2015/articles/20rules) by Piotr Wozniak - Practical advice on how to formulate flash cards.
 
 ## Note-taking
 
