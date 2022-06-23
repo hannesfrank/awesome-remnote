@@ -20,13 +20,12 @@ A list of awesome [RemNote](https://remnote.io) tutorials, extensions, themes an
 
 _Places to interact with community members and developers._
 
-- [Discord](https://bit.ly/REMNOTEdiscord) - Quick help and study groups.
-- [Discourse Forum](https://forum.remnote.io) - Q&A database, Feature Requests, workflow sharing.
-- [Twitter](https://twitter.com/rem_note) - Daily tips and update notifications.
-- [Youtube](https://www.youtube.com/channel/UCgETcD9IVBbTIL9OjCoaloA) - Tutorials and update demos.
-- [Github](https://github.com/remnoteio)
-  - [Issue Tracker](https://github.com/remnoteio/remnote-issues) - Report bugs.
-  - [Frontend API](https://github.com/remnoteio/remnote-api) - Develop plugins.
+- If you have **an issue while using RemNote**, feel free to **Contact Support** from the lower right question mark menu. If you're up to it, fill out a full bug report using **Report Bugs** from the same lower right question mark menu to allow the team to easily track the bug and request more information if needed (no private data is gathered without your knowledge and consent). If your issue prevents you from accessing the app, **email support** at support@remnote.com
+- **Feature Requests** are on the [Feature Requests board](https://feedback.remnote.com/b/New-Feature-Requests) of the [Feedback portal](https://feedback.remnote.com/). Check whether a similar feature has already been requested by searching and vote on your favourites! Track the development progress on the [Public Roadmap](https://feedback.remnote.com/roadmap).
+- **Feedback on existing features** may be submitted using the [On-demand feedback](https://feedback.remnote.com/b/feedback) board of the [Feedback portal](https://feedback.remnote.com/) 
+- **Extension developers** may gather inspiration and discuss RemNote's technical internals with fellow engineers in the [Extension Development forum category](https://forum.remnote.io/c/extension-development/9) and/or [extension-development discord channel](https://discord.com/channels/689979930804617224/689979930804617283)
+- **All other discussion**, including learning the app, workflow sharing (field-specific or general), and off-topic resides on the [Forum](https://forum.remnote.io/) and on the [Discord server](https://bit.ly/REMNOTEdiscord)
+- Follow the [official twitter account](https://twitter.com/rem_note) for **company news**
 
 <!-- - [Reddit](https://www.reddit.com/r/remNote/) - Deprecated: Replaced by Discorse Forum -->
   
