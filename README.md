@@ -78,6 +78,7 @@ _RemNote's appearance can be customized by pasting in and ticking css blocks on 
 - [:scroll: RemNote Library.](https://hannesfrank.github.io/remnote-library/#/) - A website to discover Custom CSS.
 - [Browneyedsoul's RemNote CSS Library](https://github.com/browneyedsoul/RemNote-CSS-Library) - A Curated List of RemNote CSS Snippets for Better Note-taking and Spaced Repetition
 - [[Wiki] CSS snippets to make things more compact and information dense and/or less visually obtrusive](https://forum.remnote.io/t/wiki-css-snippets-to-make-things-more-compact-and-information-dense-and-or-less-visually-obtrusive/7016) - Forum wiki topic with snippets that match the goals of having as much usable information visible on the screen at the same time as possible and removing any information that is not needed or extraneous visual elements.
+- [CSS Snippets for RemNote by Anisha](https://github.com/anishaaa1/remnote-css) - Cosmetic changes such as adding/changing colors or dimming some elements.
 
 ### Themes
 
