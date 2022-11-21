@@ -73,7 +73,11 @@ _How to get data from other services into RemNote._
 
 ## Custom CSS
 
-_RemNote's appearance can be customized by pasting in and ticking css blocks on the `⮉ Custom CSS` page._
+_RemNote's appearance can be customized by pasting in CSS code blocks on the `⮉ Custom CSS` page._
+
+- [Official Custom CSS documentation](https://plugins.remnote.com/custom-css)
+
+Below are community-maintained repositories of CSS snippets. Make sure to read through the code yourself before installing to be aware of any customiseable values and/or avoid duplicates.
 
 - [:scroll: RemNote Library.](https://hannesfrank.github.io/remnote-library/#/) - A website to discover Custom CSS.
 - [Browneyedsoul's RemNote CSS Library](https://github.com/browneyedsoul/RemNote-CSS-Library) - A Curated List of RemNote CSS Snippets for Better Note-taking and Spaced Repetition
@@ -82,16 +86,11 @@ _RemNote's appearance can be customized by pasting in and ticking css blocks on 
 
 ### Themes
 
-<!-- TODO: Make small preview images, see e.g. https://forum.remnote.io/t/dark-theme-for-remnote-inspired-by-solarized-dark-theme-updated/3630 and eustachio's themes for elements to feature in them, i.e. all headers, highlights, portals, queue) -->
+_The list of approved themes is in Settings - Theme Explorer._
 
-- [Solarized Dark](https://github.com/arunnbabu81/Solarized-Dark-theme-for-Remnote) by [arunnbabu81](https://github.com/arunnbabu81) ([Forum Link](https://forum.remnote.io/t/dark-theme-for-remnote-inspired-by-solarized-dark-theme-updated/3630/17?u=hannesfrank), [RemNote Article](https://www.remnote.io/a/solarized-dark-theme-for-remnote-arsheth/60abe52356ed52003fd3da17) for import)
-- [RemNote Dark Theme](https://github.com/eustachi0/RemNoteThemes/blob/main/RemNoteDarkTheme-by-eustachio.md) by [eustachio](https://github.com/eustachi0) ([Forum Link](https://forum.remnote.io/t/new-remnote-dark-theme-by-eustachio/5081))
-<!-- Broken: **[RemNoteTheme](https://github.com/ethomasv/RemNoteTheme)** - Modern design theme supporting light and dark mode. -->
-- [tskn's Theme](https://hannesfrank.github.io/remnote-library/#/scroll/com.github.hannesfrank.remnote-library.tskn-theme) built by [Eva Thomas](https://github.com/ethomasv)
-- [Light Theme](https://www.remnote.io/a/remnote-light-theme/6016e913ac98ad0034aefcb9) by [eustachio](https://github.com/eustachi0)
-- [Dracula theme](https://github.com/drstrangez0/Remnote-Dracula-theme) by [drstrangez0](https://github.com/drstrangez0) ([Forum Link](https://forum.remnote.io/t/dark-theme-dracula-colors/2691))
-- [Dark Theme](https://github.com/JoshKoiro/RemNote-Theme#dark-theme-for-remnote) by [JoshKoiro](https://github.com/JoshKoiro)
-- [Light "Roam" Theme](https://github.com/JoshKoiro/RemNote-Theme#light-roam-theme-for-remnote) by [JoshKoiro](https://github.com/JoshKoiro)
+- [Official Theme Template documentation](https://plugins.remnote.com/custom-css#setup-the-theme-template)
+
+<!-- TODO: Make small preview images, see e.g. https://forum.remnote.io/t/dark-theme-for-remnote-inspired-by-solarized-dark-theme-updated/3630 and eustachio's themes for elements to feature in them, i.e. all headers, highlights, portals, queue) -->
 
 <!-- TODO: Make sure all repos have the correct tags (e.g. remnote-theme) and link the tag search here too -->
 <!-- TODO: Show featured snippets here: Kanban, Columns, Icons, Themes -->
@@ -99,31 +98,23 @@ _RemNote's appearance can be customized by pasting in and ticking css blocks on 
 
 ## Plugins
 
-_Plugins extend the functionality of RemNote, featured plugins (⭐) can be installed directly from [remnote.io/plugins](https://www.remnote.io/plugins)._
+_Plugins extend the functionality of RemNote and may be installed from Settings - Plugin Explorer._
+
+- [Official Plugin documentation](https://plugins.remnote.com/)
 
 <!-- TODO: describe how to install plugins that aren't featured in the app -->
 
 <!-- Superseeded by the builtin graph - ⭐ [RemNote Graph](https://www.nhanvu327.com/rem-plugins) - Graph Visualization for you knowledge base. 
   <small>Implementation currently not published on its [Github](https://github.com/nhanvu327/rem-graph).</small> -->
-- ⭐ [Image Search](https://remnoteimagesearch.glitch.me/) - Search and insert images powered by Google Image Search.
-- ⭐ Word Cloud - Visualize a document as a word cloud.
-- ⭐ Word Counter - Count the number of words on the page.
-- [RemNote-Pomodoro](https://github.com/sirvan3tr/RemNote-Pomodoro) - Pomodoro timer and activity logger.
-- [remnote-schedule](https://github.com/hannesfrank/remnote-schedule) - Visualize your daily schedule. Inspired by [CrushEntropy.com](https://crushentropy.com/).
-- [English Dictionary](img/dictionary-plugin.png) - Look up definition of words
-  - Note: As RemNote Plugins are just webpages, you can use any webservice which works well in an iframe.
-- [RemNote-Interactive-Code](https://github.com/sirvan3tr/RemNote-Interactive-Code) - Embed interactive code snippets.
-- [RemNote Image Editor](https://remnoteimageeditor.glitch.me/) - Draw on an image. Modified image is hosted on `imgur.com`.
 <!-- TODO: Can we get a link (remnote.io/plugins/add?name=myplugin&width=) to install a plugin with default settings. This would be a first and simple to implement step to a plugin store.
 Martin said one can ask the devs to add a plugin.
 -->
 
-## Development
+## Development resources
 
-_Things an extension developer might need._
+_Other things an extension developer might need._
 
 - [Reference](docs/reference.md) in this repo - Undocumented links like an experimental trash to restore deleted rems and the list of Power-Up rems.
-- [Extensions, Plugins & Themes documenentation](https://www.remnote.io/documentation/nFTJ495uTxQTva9TL) in RemNote's Tutorial section.
 - [remnote-inspect](https://github.com/hannesfrank/remnote-inspect) - Show datastructure of context, focused Rem and Document.
 - [RemNote flavored Markdown.](https://forum.remnote.io/t/custom-rem-level-formatting-with-tags/168?u=hannesfrank) - Description of the syntax to insert content by both pasting and API.
   <!-- TODO: Guides, Github pages plugin template,  -->
