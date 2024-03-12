@@ -1,8 +1,8 @@
 ![RemNote logo](img/remnote-logo.svg)
 
-A list of awesome [RemNote](https://remnote.io) tutorials, extensions, themes and educational resources.
+A list of awesome [RemNote](https://www.remnote.com/) tutorials, extensions, themes and educational resources.
 
-[Web](https://www.remnote.io/homepage) | [Desktop](https://www.remnote.io/download) (Windows/Linux/Mac) | [Android](https://play.google.com/store/apps/details?id=com.remnote.v2) | [iOS](https://apps.apple.com/us/app/remnote-notes-flashcards/id1545429784)
+[Web](https://www.remnote.com/) | [Desktop](https://www.remnote.com/download) (Windows/Linux/Mac) | [Android](https://play.google.com/store/apps/details?id=com.remnote.v2) | [iOS](https://apps.apple.com/us/app/remnote-notes-flashcards/id1545429784)
 
 <!-- TODO: Explain how the list works and what the goal is. -->
 <!-- **What is this list:** Think if it like a mind map of the RemNote Ecosystem.
@@ -21,11 +21,11 @@ A list of awesome [RemNote](https://remnote.io) tutorials, extensions, themes an
 _Places to interact with community members and developers._
 
 - If you have **an issue while using RemNote**, feel free to **Contact Support** from the lower right question mark menu. If you're up to it, fill out a full bug report using **Report Bugs** from the same lower right question mark menu to allow the team to easily track the bug and request more information if needed (no private data is gathered without your knowledge and consent). If your issue prevents you from accessing the app, **email support** at support@remnote.com
-- **Feature Requests** are on the [Feature Requests board](https://feedback.remnote.com/b/New-Feature-Requests) of the [Feedback portal](https://feedback.remnote.com/). Check whether a similar feature has already been requested by searching and vote on your favourites! Track the development progress on the [Public Roadmap](https://feedback.remnote.com/roadmap).
+- **Feature Requests** are on the [Feature Requests board](https://feedback.remnote.com/b/New-Feature-Requests) of the [Feedback portal](https://feedback.remnote.com/). Check whether a similar feature has already been requested by searching and vote on your favourites!
 - **Feedback on existing features** may be submitted using the [On-demand feedback](https://feedback.remnote.com/b/feedback) board of the [Feedback portal](https://feedback.remnote.com/) 
-- **Extension developers** may gather inspiration and discuss RemNote's technical internals with fellow engineers in the [Extension Development forum category](https://forum.remnote.io/c/extension-development/9) and/or [extension-development discord channel](https://discord.com/channels/689979930804617224/689979930804617283)
-- **All other discussion**, including learning the app, workflow sharing (field-specific or general), and off-topic resides on the [Forum](https://forum.remnote.io/) and on the [Discord server](https://bit.ly/REMNOTEdiscord)
-- Follow the [official twitter account](https://twitter.com/rem_note) for **company news**
+- **Extension developers** may gather inspiration and discuss RemNote's technical internals with fellow engineers in the [extension-development discord channel](https://discord.com/channels/689979930804617224/689979930804617283)
+- **All other discussion**, including learning the app, workflow sharing (field-specific or general), and off-topic resides on the [Discord server](https://bit.ly/REMNOTEdiscord)
+- Follow the [official twitter account](https://twitter.com/remnote) for **company news**
 
 <!-- - [Reddit](https://www.reddit.com/r/remNote/) - Deprecated: Replaced by Discorse Forum -->
   
@@ -33,13 +33,12 @@ _Places to interact with community members and developers._
 
 _How to use RemNote?_
 
-Get started by going through the interactive tutorial and looking at RemNote's excellent builtin documentation or the official Youtube channel. Then move onto community tutorials.
+Get started by going through the interactive tutorial and looking at RemNote's excellent builtin documentation (via the sidebar or the website) or the official Youtube channel. Then move onto community tutorials.
 
-- [Builtin Documentation](https://www.remnote.io/documentation)
-- [Official Tutorial Series](https://www.youtube.com/channel/UCgETcD9IVBbTIL9OjCoaloA/videos)
-- [Community video tutorials section of the documentation](https://www.remnote.io/documentation/5fc3c2b94aed570045281735)
+- [Builtin Documentation](https://help.remnote.com/)
+- [Official Video Tutorials](https://www.youtube.com/@RemNote)
 
-Selection of Video Tutorials that cover a specific topic more in depth:
+Selection of community Video Tutorials that cover a specific topic more in depth:
 
 - [How To Use RemNote: Practical Note-taking Advice & Flashcard Types](https://www.youtube.com/watch?v=4m4_q4UEZDE) by Red Gregory.
 - [How To Use RemNote Pt. 2: Templates & Daily Documents](https://www.youtube.com/watch?v=_NCXph5ZSOE) by Red Gregory.
@@ -81,7 +80,7 @@ Below are community-maintained repositories of CSS snippets. Make sure to read t
 
 - [:scroll: RemNote Library.](https://hannesfrank.github.io/remnote-library/#/) - A website to discover Custom CSS.
 - [Browneyedsoul's RemNote CSS Library](https://github.com/browneyedsoul/RemNote-CSS-Library) - A Curated List of RemNote CSS Snippets for Better Note-taking and Spaced Repetition
-- [[Wiki] CSS snippets to make things more compact and information dense and/or less visually obtrusive](https://forum.remnote.io/t/wiki-css-snippets-to-make-things-more-compact-and-information-dense-and-or-less-visually-obtrusive/7016) - Forum wiki topic with snippets that match the goals of having as much usable information visible on the screen at the same time as possible and removing any information that is not needed or extraneous visual elements.
+- [Compact Mode CSS](https://www.remnote.com/a/Compact-Mode-CSS/65f020ac3e7a848770eb360a) - Collection of snippets that match the goals of having as much usable information visible on the screen at the same time as possible and removing any information that is not needed or extraneous visual elements.
 - [CSS Snippets for RemNote by Anisha](https://github.com/anishaaa1/remnote-css) - Cosmetic changes such as adding/changing colors or dimming some elements.
 
 ### Themes
