@@ -132,7 +132,7 @@ _How to make the most out of RemNote?_
 
 _How to get knowledge into your head._
 
-- :mortar_board: [Learning how to Learn by Barbara Oakley and Terrence Sejnowski.](https://www.coursera.org/learn/learning-how-to-learn) A MOOC of empirically proven learning techniques in the simplest possible terms.
+- [:mortar_board: Learning how to Learn by Barbara Oakley and Terrence Sejnowski.](https://www.coursera.org/learn/learning-how-to-learn) A MOOC of empirically proven learning techniques in the simplest possible terms.
   - [:closed_book: A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)](https://www.goodreads.com/book/show/18693655-a-mind-for-numbers) accompanying book, can be read without taking the course or alongside it.
 - [:closed_book: Make it Stick: The Science of Successful Learning\_ by Peter C. Brown, Henry L. Roediger III, Mark A. McDaniel](https://www.goodreads.com/book/show/18770267-make-it-stick) Drawing on recent discoveries in cognitive psychology and other disciplines, the authors offer concrete techniques for becoming more productive learners.
 - [:page_facing_up: Improving Students’ Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology](https://pcl.sitehost.iu.edu/rgoldsto/courses/cogscilearning/dunloskiimprovingstudentlearning.pdf) by John Dunlosky, Katherine A. Rawson, Elizabeth J. Marsh, Mitchell J. Nathan, Daniel T. Willingham - Paper investigating the (in)effectiveness of learning techniques (elaborative interrogation, self-explanation, summarization, highlighting, keyword mnemonic, imagery use for text learning, rereading, practice testing, distributed practice, and interleaved practice).
@@ -149,6 +149,10 @@ Spaced-Repetition and Active Recall are _the_ best techniques to get knowledge i
 - [:memo: How to Remember Everything Forever-ish](https://ncase.me/remember/) by Nicky Case - Playful introduction to spaced repetition.
 - [:memo: Augmenting Long-term Memory](http://augmentingcognition.com/ltm.html) by Michael Nielsen - Serious introduction to spaced repetition.
 - [:memo: Twenty rules of formulating knowledge](https://www.supermemo.com/en/archives1990-2015/articles/20rules) by Piotr Wozniak - Practical advice on how to formulate flash cards.
+
+### AI
+
+- [:memo: Prompt Library](https://www.moreusefulthings.com/prompts) by Ethan Mollick and Lilach Mollick - Rigorously tested educator and student prompts for a variety of LLM chatbots.
 
 ## Note-taking
 
