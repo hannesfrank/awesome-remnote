@@ -170,7 +170,7 @@ _How to get knowledge out of your head._
   - [:tv::memo:[Video Tour and Article] (by Joel Chan) Zettelkasten in Roam. Questions as zettels and literature notes inside zettelkasten](https://forum.remnote.io/t/video-tour-and-article-by-joel-chan-zettelkasten-in-roam-questions-as-zettels-and-literature-notes-inside-zettelkasten/1523)
   - [:tv:[Video Tour] (by Beau Haan) Zettelkasten in Roam. Using block references in bulk and keeping all fleeting notes](https://forum.remnote.io/t/video-tour-by-beau-haan-zettelkasten-in-roam-using-block-references-in-bulk-and-keeping-all-fleeting-notes/1344)
   - [:memo:[Article] (by Eva Keiffenheim) Zettelkasten in Roam while sticking to manual numbering](https://forum.remnote.io/t/article-by-eva-keiffenheim-zettelkasten-in-roam-while-sticking-to-manual-numbering/5659)
-  - [:memo:[Article] (by Maarten van Doorn) Evergreen Zettelkasten in Roam with Universal Descriptors for related notes](https://forum.remnote.io/t/article-by-maarten-van-doorn-evergreen-zettelkasten-in-roam-with-universal-descriptors-for-related-notes/5810)
+  - [:memo:[Article] (by Maarten van Doorn) Evergreen Zettelkasten in Roam with Universal Descriptors for related notes](https://web.archive.org/web/20250124193119/https://roambrain.com/the-complete-guide-to-effective-note-taking/)
 
 # Knowledge Bases
 
