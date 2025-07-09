@@ -153,7 +153,7 @@ Spaced-Repetition and Active Recall are _the_ best techniques to get knowledge i
 
 ### AI
 
-- [:memo: Prompt Library](https://www.moreusefulthings.com/prompts) by Ethan Mollick and Lilach Mollick - Rigorously tested educator and student prompts for a variety of LLM chatbots.
+- [:memo: Prompt Library](https://gail.wharton.upenn.edu/prompt-library/) by Wharton Generative AI Lab - Rigorously tested educator and student prompts for a variety of LLM chatbots.
 
 ## Note-taking
 
