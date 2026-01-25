@@ -59,7 +59,7 @@ _How to get data from other services into RemNote._
 
 <!-- TODO: Icons? Might be too much here. -->
 
-- **Chrome Extension: [RemNote Clipper](https://chrome.google.com/webstore/detail/remnote-clipper/ohidiiabdhnlgcaidgndbdbjlhngeboj)** - Save websites and take notes.
+- **Chrome Extension: [RemNote Clipper](https://chromewebstore.google.com/detail/remnote-clipper/lpnnhhkdbmobjiheokoonjlmaffljcng)** - Save websites and take notes.
 - Twitter: [RemNoteBot](https://twitter.com/RemNoteBot/) - Send Twitter messages to RemNote.
 - Telegram: [RemNote-bot](https://github.com/pavlohrab/RemNote-bot) - Send notes to Daily Documents.
 <!-- - Telegram: [rembot](https://github.com/dmrd/rembot) - Forward Telegram chats to RemNote. -->
